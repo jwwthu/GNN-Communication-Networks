@@ -100,7 +100,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Bahnasy M, Li F, Xiao S, et al. <b>DeepBGP: A Machine Learning Approach for BGP Configuration Synthesis[C]</b>//Proceedings of the Workshop on Network Meets AI & ML. 2020: 48-55. [Link](https://dl.acm.org/doi/abs/10.1145/3405671.3405816)
 
 ### Botnet Detection
-* Zhou J, Xu Z, Rush A M, et al. <b>Automating Botnet Detection with Graph Neural Networks[C]</b>. AutoML for Networking and Systems Workshop of MLSys 2020 Conference. [Link](https://arxiv.org/abs/2003.06344)
+* Zhou J, Xu Z, Rush A M, et al. <b>Automating Botnet Detection with Graph Neural Networks[C]</b>. AutoML for Networking and Systems Workshop of MLSys 2020 Conference. [Link](https://arxiv.org/abs/2003.06344) [Data](https://github.com/harvardnlp/botnet-detection)
 
 ### Communication Delay Estimation
 * Suzuki T, Yasuda Y, Nakamura R, et al. <b>On Estimating Communication Delays using Graph Convolutional Networks with Semi-Supervised Learning[C]</b>//2020 International Conference on Information Networking (ICOIN). IEEE, 2020: 481-486. [Link](https://ieeexplore.ieee.org/abstract/document/9016603)
