@@ -2,7 +2,7 @@
 This is the repository for the collection of Graph-based Deep Learning for Communication Networks.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Coming soon
+* Jiang W. Graph-based Deep Learning for Communication Networks: A Survey[J]. arXiv preprint arXiv:2106.02533, 2021. [Link](https://arxiv.org/abs/2106.02533)
 
 # Wireless Scenario
 ## General Case
