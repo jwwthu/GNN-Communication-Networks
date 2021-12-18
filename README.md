@@ -66,7 +66,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Yan Y, Zhang B, Li C, et al. <b>Cooperative Caching and Fetching in D2D Communications-A Fully Decentralized Multi-Agent Reinforcement Learning Approach[J]</b>. IEEE Transactions on Vehicular Technology, 2020, 69(12): 16095-16109. [Link](https://ieeexplore.ieee.org/abstract/document/9277917/)
 
 ### Power Control and Beamforming
-* Zhang X, Zhao H, Xiong J, et al. <b>Scalable Power Control/Beamforming in Heterogeneous Wireless Networks with Graph Neural Networks[J]</b>. arXiv preprint arXiv:2104.05463, 2021. [Link](https://arxiv.org/abs/2104.05463v1)
+* Zhang X, Zhao H, Xiong J, et al. <b>Scalable Power Control/Beamforming in Heterogeneous Wireless Networks with Graph Neural Networks[C]</b>//GLOBECOM 2021-2021 IEEE Global Communications Conference. IEEE, 2021. [Link](https://arxiv.org/abs/2104.05463v1)
 
 ### Wireless Link Scheduling
 * Lee M, Yu G, Li G Y. <b>Graph embedding based wireless link scheduling with few training samples[J]</b>. IEEE Transactions on Wireless Communications, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9285223)
