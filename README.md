@@ -89,7 +89,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ## Vehicular Network
 ### Communication Latency Modeling
-* Liu J, Xiao Y, Li Y, et al. <b>Spatio-temporal Modeling for Large-scale Vehicular Networks Using Graph Convolutional Networks[J]</b>. arXiv preprint arXiv:2103.07636, 2021. [Link](https://arxiv.org/abs/2103.07636)
+* Liu J, Xiao Y, Li Y, et al. <b>Spatio-temporal Modeling for Large-scale Vehicular Networks Using Graph Convolutional Networks[C]</b>. ICC 2021-2021 IEEE International Conference on Communications (ICC). IEEE, 2021. [Link](https://ieeexplore.ieee.org/document/9500751)
 
 ### Spectrum Allocation
 * He Z, Wang L, Ye H, et al. <b>Resource Allocation based on Graph Neural Networks in Vehicular Communications[C]</b>//GLOBECOM 2020-2020 IEEE Global Communications Conference. IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9322537)
@@ -168,7 +168,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Heo D N, Lee D, Kim H G, et al. <b>Reinforcement Learning of Graph Neural Networks for Service Function Chaining[J]</b>. arXiv preprint arXiv:2011.08406, 2020. [Link](https://arxiv.org/abs/2011.08406)
 * Heo D N, Lange S, Kim H G, et al. <b>Graph Neural Network based Service Function Chaining for Automatic Network Control[C]</b>//2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2020: 7-12. [Link](https://ieeexplore.ieee.org/abstract/document/9236954/)
 * Rafiq A, Khan T A, Afaq M, et al. <b>Service Function Chaining and Traffic Steering in SDN using Graph Neural Network[C]</b>//2020 International Conference on Information and Communication Technology Convergence (ICTC). IEEE, 2020: 500-505. [Link](https://ieeexplore.ieee.org/abstract/document/9289378/)
-* Tianfu Wang, Qilin Fan, Xiuhua Li, Xu Zhang, Qingyu Xiong, Shu Fu, and Min Gao, <b>"DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning"</b>, In Proc. of  IEEE ICC, June 2021, Montreal, CA. [Link](https://www.geminilight.cn/resource/paper/icc-2021-drl-sfcp.pdf)
+* Tianfu Wang, Qilin Fan, Xiuhua Li, Xu Zhang, Qingyu Xiong, Shu Fu, and Min Gao, <b>"DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning"</b>, In Proc. of  IEEE ICC, June 2021, Montreal, CA. [Link](https://ieeexplore.ieee.org/document/9500964/) [Code](https://github.com/GeminiLight/drl-sfcp)
 
 ### Virtual Network Function
 * Sun P, Lan J, Guo Z, et al. <b>DeepMigration: Flow Migration for NFV with Graph-based Deep Reinforcement Learning[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9148696/)
