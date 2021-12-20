@@ -7,7 +7,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 # Wireless Scenario
 ## General Case
 ### Binary Classification
-* Lee M, Yu G, Dai H. <b>Decentralized Inference with Graph Neural Networks in Wireless Communication Systems[J]</b>. arXiv preprint arXiv:2104.09027, 2021. [Link](https://arxiv.org/abs/2104.09027)
+* Lee M, Yu G, Dai H. <b>Decentralized Inference with Graph Neural Networks in Wireless Communication Systems[J]</b>. IEEE Transactions on Mobile Computing, 2021. [Link](https://ieeexplore.ieee.org/document/9606569)
 
 ### Channel Allocation
 * Nakashima K, Kamiya S, Ohtsu K, et al. <b>Deep reinforcement learning-based channel allocation for wireless lans with graph convolutional networks[J]</b>. IEEE Access, 2020, 8: 31823-31834. [Link](https://ieeexplore.ieee.org/abstract/document/8993737/)
@@ -28,7 +28,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ## Cellular Network
 ### Channel Estimation
-* Tekbıyık K, Kurt G K, Huang C, et al. <b>Channel Estimation for Full-Duplex RIS-assisted HAPS Backhauling with Graph Attention Networks[J]</b>. arXiv preprint arXiv:2010.12004, 2020. [Link](https://arxiv.org/abs/2010.12004)
+* Tekbıyık K, Kurt G K, Huang C, et al. <b>Channel Estimation for Full-Duplex RIS-assisted HAPS Backhauling with Graph Attention Networks[C]</b>. ICC 2021-2021 IEEE International Conference on Communications. IEEE, 2021. [Link](https://ieeexplore.ieee.org/document/9500697)
 
 ### Idle Time Windows Prediction
 * Fang L, Cheng X, Wang H, et al. <b>Idle time window prediction in cellular networks with deep spatiotemporal modeling[J]</b>. IEEE Journal on Selected Areas in Communications, 2019, 37(6): 1441-1454. [Link](https://ieeexplore.ieee.org/abstract/document/8667305)
