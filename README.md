@@ -157,7 +157,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Zheng H, Ding X, Wang Y, et al. <b>Attention Based Spatial-Temporal Graph Convolutional Networks for RSU Communication Load Forecasting[C]</b>//International Conference on Collaborative Computing: Networking, Applications and Worksharing. Springer, Cham, 2021: 99-114. [Link](https://link.springer.com/chapter/10.1007/978-3-030-92635-9_7)
 
 ### Spectrum Allocation
-* He Z, Wang L, Ye H, et al. <b>Resource Allocation based on Graph Neural Networks in Vehicular Communications[C]</b>//GLOBECOM 2020-2020 IEEE Global Communications Conference. IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9322537)
+* He Z, Wang L, Ye H, et al. <b>Resource Allocation based on Graph Neural Networks in Vehicular Communications[C]</b>//GLOBECOM 2020-2020 IEEE Global Communications Conference. IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9322537) [Code](https://github.com/Coolzyh/Globecom2020-ResourceAllocationGNN)
 
 # Wired Scenario
 ## General Case
