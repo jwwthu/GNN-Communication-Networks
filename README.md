@@ -99,20 +99,19 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ### Power Control and Beamforming
 * He S, Yuan J, An Z, et al. <b>Joint User Scheduling and Beamforming Design for Multiuser MISO Downlink Systems[J]</b>. arXiv preprint arXiv:2112.01738, 2021. [Link](https://arxiv.org/abs/2112.01738)
-* Chen T, You M, Zheng G, et al. <b>Graph Neural Network Based Beamforming in D2D Wireless Networks[C]</b>. The 25th International ITG Workshop on Smart Antennas (WSA), Nov. 2021, EURECOM, French Riviera. [Link](https://nottingham-repository.worktribe.com/OutputFile/6537350)
+* Chen T, You M, Zheng G, et al. <b>Graph Neural Network Based Beamforming in D2D Wireless Networks[C]</b>. The 25th International ITG Workshop on Smart Antennas (WSA), Nov. 2021, EURECOM, French Riviera. [Link](https://ieeexplore.ieee.org/abstract/document/9739172)
 * Zhang X, Zhao H, Xiong J, et al. <b>Scalable Power Control/Beamforming in Heterogeneous Wireless Networks with Graph Neural Networks[C]</b>//GLOBECOM 2021-2021 IEEE Global Communications Conference. IEEE, 2021. [Link](https://arxiv.org/abs/2104.05463v1)
 
 ### Beam Selection and Link Activation
-* He S, Xiong S, Zhang W, et al. <b>GBLinks: GNN-based beam selection and link activation for ultra-dense D2D mmWave networks[J]</b>. arXiv preprint arXiv:2107.02412, 2021. [Link](https://arxiv.org/abs/2107.02412)
+* He S, Xiong S, Zhang W, et al. <b>GBLinks: GNN-based beam selection and link activation for ultra-dense D2D mmWave networks[J]</b>. IEEE Transactions on Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9732971)
 
 ### Wireless Link Scheduling
-* Zhao Z, Verma G, Swami A, et al. <b>Delay-Oriented Distributed Scheduling Using Graph Neural Networks[J]</b>. arXiv preprint arXiv:2111.07017, 2021. [Link](https://arxiv.org/abs/2111.07017)
+* Zhao Z, Verma G, Swami A, et al. <b>Delay-Oriented Distributed Scheduling Using Graph Neural Networks[C]</b>. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8902-8906. [Link](https://ieeexplore.ieee.org/abstract/document/9746926) [Code](https://github.com/zhongyuanzhao/gcn-dql)
 * Zhao Z, Verma G, Rao C, et al. <b>Distributed scheduling using graph neural networks[C]</b>//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 4720-4724. [Link](https://ieeexplore.ieee.org/abstract/document/9414098/)
 * Sambamoorthy R, Mandalapu J, Peruru S S, et al. <b>Graph Neural Network Based Scheduling: Improved Throughput Under a Generalized Interference Model[C]</b>//EAI International Conference on Performance Evaluation Methodologies and Tools. Springer, Cham, 2021: 144-153. [Link](https://link.springer.com/chapter/10.1007/978-3-030-92511-6_9)
 * Zhao Z, Verma G, Rao C, et al. <b>Link scheduling using graph neural networks[J]</b>. arXiv preprint arXiv:2109.05536, 2021. [Link](https://arxiv.org/abs/2109.05536) [Code](https://github.com/zhongyuanzhao/distgcn)
 * Naderializadeh N. <b>Wireless Link Scheduling via Graph Representation Learning: A Comparative Study of Different Supervision Levels[J]</b>. arXiv preprint arXiv:2110.01722, 2021. [Link](https://arxiv.org/abs/2110.01722v1) [Code](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)
-* Li P, Wang L, Wu W, et al. <b>Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks[J]</b>. arXiv preprint arXiv:2202.07115, 2022. [Link](https://arxiv.org/abs/2202.07115)
-* Zhao Z, Verma G, Swami A, et al. <b>Delay-Oriented Distributed Scheduling Using Graph Neural Networks[J]</b>. arXiv preprint arXiv:2111.07017, 2021. [Link](https://arxiv.org/abs/2111.07017)
+* Li P, Wang L, Wu W, et al. <b>Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks[J]</b>. Digital Communications and Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822001055)
 * Lee M, Yu G, Li G Y. <b>Graph embedding based wireless link scheduling with few training samples[J]</b>. IEEE Transactions on Wireless Communications, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9285223)
 * Lee M, Yu G, Li G Y. <b>Wireless Link Scheduling for D2D Communications with Graph Embedding Technique[C]</b>//ICC 2020-2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9149089)
 * Fu J, Ma N, Ye M, et al. <b>Wireless D2D Network Link Scheduling based on Graph Embedding[C]</b>//2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall). IEEE, 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9348728/)
@@ -129,7 +128,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ### Intrusion Detection
 * Chang L, Branco P. <b>Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms[J]</b>. arXiv preprint arXiv:2111.13597, 2021. [Link](https://arxiv.org/abs/2111.13597)
-* Lo W W, Layeghy S, Sarhan M, et al. <b>E-GraphSAGE: A Graph Neural Network based Intrusion Detection System[J]</b>. arXiv preprint arXiv:2103.16329, 2021. [Link](https://arxiv.org/abs/2103.16329)
+* Lo W W, Layeghy S, Sarhan M, et al. <b>E-GraphSAGE: A Graph Neural Network based Intrusion Detection System[C]</b>. NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium. IEEE, 2022: 1-9. [Link](https://ieeexplore.ieee.org/abstract/document/9789878)
 
 ### Resource Allocation
 * Chen T, Zhang X, You M, et al. <b>A GNN-Based Supervised Learning Framework for Resource Allocation in Wireless IoT Networks[J]</b>. IEEE Internet of Things Journal, 2021, 9(3): 1712-1724. [Link](https://ieeexplore.ieee.org/abstract/document/9462385/)
@@ -215,7 +214,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 ### Routing
 * Mai X, Fu Q, Chen Y. <b>Packet Routing with Graph Attention Multi-agent Reinforcement Learning[J]</b>. arXiv preprint arXiv:2107.13181, 2021. [Link](https://arxiv.org/abs/2107.13181)
 * Almasan P, Xiao S, Cheng X, et al. <b>ENERO: Efficient Real-Time Routing Optimization[J]</b>. arXiv preprint arXiv:2109.10883, 2021. [Link](https://arxiv.org/abs/2109.10883)
-* Güemes-Palau C, Almasan P, Xiao S, et al. <b>Accelerating Deep Reinforcement Learning for Digital Twin Network Optimization with Evolutionary Strategies[J]</b>. arXiv preprint arXiv:2202.00360, 2022. [Link](https://arxiv.org/abs/2202.00360)
+* Güemes-Palau C, Almasan P, Xiao S, et al. <b>Accelerating Deep Reinforcement Learning for Digital Twin Network Optimization with Evolutionary Strategies[C]</b>//NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium. IEEE, 2022: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9789945/)
 * Chen B, Zhu D, Wang Y, et al. <b>An Approach to Combine the Power of Deep Reinforcement Learning with a Graph Neural Network for Routing Optimization[J]</b>. Electronics, 2022, 11(3): 368. [Link](https://www.mdpi.com/1468580)
 * Geyer F, Carle G. <b>Learning and generating distributed routing protocols using graph-based deep learning[C]</b>//Proceedings of the 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks. 2018: 40-45. [Link](https://dl.acm.org/doi/abs/10.1145/3229607.3229610)
 * Xiao S, Mao H, Wu B, et al. <b>Neural Packet Routing[C]</b>//Proceedings of the Workshop on Network Meets AI & ML. 2020: 28-34. [Link](https://dl.acm.org/doi/abs/10.1145/3405671.3405813)
@@ -298,7 +297,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 # Others
 * Ding S, Zhang F, Luo X, et al. <b>GCN-Geo: A Graph Convolution Network-based Fine-grained IP Geolocation Framework[J]</b>. arXiv preprint arXiv:2112.10767, 2021. [Link](https://arxiv.org/abs/2112.10767)
 * Liu T, Li P, Gu Y. <b>Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling[C]</b>//2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS). IEEE, 2021: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/9521331/)
-* Kosasih A, Onasis V, Hardjawana W, et al. <b>Graph Neural Network Aided Expectation Propagation Detector for MU-MIMO Systems[J]</b>. arXiv preprint arXiv:2201.03731, 2022. [Link](https://arxiv.org/abs/2201.03731)
+* Kosasih A, Onasis V, Hardjawana W, et al. <b>Graph Neural Network Aided Expectation Propagation Detector for MU-MIMO Systems[C]</b>. 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2022: 1212-1217. [Link](https://ieeexplore.ieee.org/abstract/document/9771869/)
 * Lima V, Eisen M, Gatsis K, et al. <b>Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels[J]</b>. arXiv preprint arXiv:2201.09859, 2022. [Link](https://arxiv.org/abs/2201.09859)
 * Lv S, Yi F, He P, et al. <b>QoS Prediction of Web Services Based on a Two-Level Heterogeneous Graph Attention Network[J]</b>. IEEE Access, 2021, 10: 1871-1880. [Link](https://ieeexplore.ieee.org/abstract/document/9662349/)
 * Dong J, Chen S, Ha P Y J, et al. <b>A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network[J]</b>. arXiv preprint arXiv:2010.05437, 2020. [Link](https://arxiv.org/abs/2010.05437)
@@ -306,7 +305,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Guan L, Zhang M, Gui Y, et al. <b>AI-assisted intent-based traffic grooming in a dynamically shared 5g optical fronthaul network[J]</b>. Optics Express, 2021, 29(15): 23113-23130. [Link](https://www.osapublishing.org/abstract.cfm?uri=oe-29-15-23113)
 * Xu X, Chen Q, Mu X, et al. <b>Graph-Embedded Multi-Agent Learning for Smart Reconfigurable THz MIMO-NOMA Networks[J]</b>. IEEE Journal on Selected Areas in Communications, 2021, 40(1): 259-275. [Link](https://ieeexplore.ieee.org/abstract/document/9605603/)
 * Do Xuan C, Dao M H, Nguyen H D. <b>APT attack detection based on flow network analysis techniques using deep learning[J]</b>. Journal of Intelligent & Fuzzy Systems, 2020, 39(3): 4785-4801. [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs200694)
-* Ranasinghe V, Rajatheva N, Latva-aho M. <b>Graph Neural Network Based Access Point Selection for Cell-Free Massive MIMO Systems[J]</b>. arXiv preprint arXiv:2107.02884, 2021. [Link](https://arxiv.org/abs/2107.02884)
+* Ranasinghe V, Rajatheva N, Latva-aho M. <b>Graph Neural Network Based Access Point Selection for Cell-Free Massive MIMO Systems[C]</b>. 2021 IEEE Global Communications Conference (GLOBECOM). IEEE, 2021: 01-06. [Link](https://ieeexplore.ieee.org/abstract/document/9685221)
 * Scotti A, Moghadam N N, Liu D, et al. <b>Graph Neural Networks for Massive MIMO Detection[C]</b>. ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+), 2020. [Link](https://arxiv.org/abs/2007.05703)
 * Shen Y, Zhang J, Letaief K B. <b>How Neural Architectures Affect Deep Learning for Communication Networks?[J]</b>. arXiv preprint arXiv:2111.02215, 2021. [Link](https://arxiv.org/abs/2111.02215)
 * Pujol-Perich D, Suárez-Varela J, Xiao S, et al. <b>NetXplain: Real-Time Explainability of Graph Neural Networks Applied to Computer Networks[C]</b>. GNNSys workshop, 2021. [Link](https://gnnsys.github.io/papers/GNNSys21_paper_7.pdf)
@@ -315,7 +314,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Bernárdez G, Suárez-Varela J, López A, et al. <b>Is Machine Learning Ready for Traffic Engineering Optimization?[C]</b>. IEEE ICNP 2021. [Link](https://arxiv.org/abs/2109.01445v1)
 * Li L, Jiang H, He H. <b>Graph-based Multi-view Learning for Cooperative Spectrum Sensing[C]</b>//2021 International Joint Conference on Neural Networks (IJCNN). IEEE, 2021: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9534051/)
 * Leng L, Li J, Shi H, et al. <b>Graph convolutional network-based reinforcement learning for tasks offloading in multi-access edge computing[J]</b>. Multimedia Tools and Applications, 2021, 80(19): 29163-29175. [Link](https://link.springer.com/article/10.1007/s11042-021-11130-5)
-* Orhan O, Swamy V N, Tetzlaff T, et al. <b>Connection Management xAPP for O-RAN RIC: A Graph Neural Network and Reinforcement Learning Approach[J]</b>. arXiv preprint arXiv:2110.07525, 2021. [Link](https://arxiv.org/abs/2110.07525)
+* Orhan O, Swamy V N, Tetzlaff T, et al. <b>Connection Management xAPP for O-RAN RIC: A Graph Neural Network and Reinforcement Learning Approach[C]</b>. 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2021: 936-941. [Link](https://ieeexplore.ieee.org/abstract/document/9679991)
 * Mai T L, Navet N. <b>Deep learning to predict the feasibility of priority-based Ethernet network configurations[J]</b>. ACM Transactions on Cyber-Physical Systems (TCPS), 2021, 5(4): 1-26. [Link](https://dl.acm.org/doi/abs/10.1145/3468890)
 * Ren X, Zhang W, Bao L, et al. <b>Deepqsc: A gnn and attention mechanism-based framework for qos-aware service composition[C]</b>//2021 International Conference on Service Science (ICSS). IEEE, 2021: 76-83. [Link](https://ieeexplore.ieee.org/abstract/document/9492209/)
 * Chen J, Wu Z. <b>Dynamic computation offloading with energy harvesting devices: a graph-based deep reinforcement learning approach[J]</b>. IEEE Communications Letters, 2021, 25(9): 2968-2972. [Link](https://ieeexplore.ieee.org/abstract/document/9478874/)
