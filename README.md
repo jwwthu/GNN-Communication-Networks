@@ -47,7 +47,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Chowdhury A, Verma G, Rao C, et al. <b>Unfolding wmmse using graph neural networks for efficient power allocation[J]</b>. IEEE Transactions on Wireless Communications, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9403959) [Code](https://github.com/ArCho48/Unrolled-WMMSE.git)
 
 ### Resource Management
-* Wang Z, Eisen M, Ribeiro A. <b>Learning decentralized wireless resource allocations with graph neural networks[J]</b>. arXiv preprint arXiv:2107.01489, 2021. [Link](https://arxiv.org/abs/2107.01489)
+* Wang Z, Eisen M, Ribeiro A. <b>Learning decentralized wireless resource allocations with graph neural networks[J]</b>. IEEE Transactions on Signal Processing, 2022, 70: 1850-1863. [Link](https://ieeexplore.ieee.org/abstract/document/9745318/)
 * Shen Y, Zhang J, Song S H, et al. <b>AI Empowered Resource Management for Future Wireless Networks[C]</b>. Meditcom 2021. [Link](https://arxiv.org/abs/2106.06178v1)
 
 ### Traffic Prediction
