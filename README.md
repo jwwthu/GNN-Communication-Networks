@@ -2,10 +2,11 @@
 This is the repository for the collection of Graph-based Deep Learning for Communication Networks.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Jiang W. Graph-based Deep Learning for Communication Networks: A Survey[J]. Accepted by [Elsevier Computer Communications](https://www.journals.elsevier.com/computer-communications), 2021. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0140366421004874)
+* Jiang W. Graph-based Deep Learning for Communication Networks: A Survey[J]. Computer Communications, 2022, 185:40-54. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0140366421004874)
 
 # Other Surveys
 * He S, Xiong S, Ou Y, et al. <b>An overview on the application of graph neural networks in wireless networks[J]</b>. IEEE Open Journal of the Communications Society, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9618652/)
+* Suárez-Varela J, Almasan P, Ferriol-Galmés M, et al. <b>Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities[J]</b>. IEEE Network, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9846958/)
 
 # Competition
 * Suárez-Varela J, Ferriol-Galmés M, López A, et al. <b>The graph neural networking challenge: a worldwide competition for education in AI/ML for networks[J]</b>. ACM SIGCOMM Computer Communication Review, 2021, 51(3): 9-16. [Link](https://dl.acm.org/doi/abs/10.1145/3477482.3477485)
