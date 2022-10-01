@@ -133,6 +133,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Tekbıyık K, Kurt G K, Ekti A R, et al. <b>Graph Attention Networks for Channel Estimation in RIS-assisted Satellite IoT Communications[J]</b>. arXiv preprint arXiv:2104.00735, 2021. [Link](https://arxiv.org/abs/2104.00735)
 
 ### Intrusion Detection
+* Govindaraju S, Vinisha W V R, Shajin F H, et al. <b>Intrusion detection framework using auto‐metric graph neural network optimized with hybrid woodpecker mating and capuchin search optimization algorithm in IoT network[J]</b>. Concurrency and Computation: Practice and Experience, e7197. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7197)
 * Zhou X, Liang W, Li W, et al. <b>Hierarchical adversarial attacks against graph neural network based IoT network intrusion detection system[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9626144)
 * Chang L, Branco P. <b>Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms[J]</b>. arXiv preprint arXiv:2111.13597, 2021. [Link](https://arxiv.org/abs/2111.13597)
 * Lo W W, Layeghy S, Sarhan M, et al. <b>E-GraphSAGE: A Graph Neural Network based Intrusion Detection System[C]</b>. NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium. IEEE, 2022: 1-9. [Link](https://ieeexplore.ieee.org/abstract/document/9789878)
@@ -174,7 +175,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Bahnasy M, Li F, Xiao S, et al. <b>DeepBGP: A Machine Learning Approach for BGP Configuration Synthesis[C]</b>//Proceedings of the Workshop on Network Meets AI & ML. 2020: 48-55. [Link](https://dl.acm.org/doi/abs/10.1145/3405671.3405816)
 
 ### BGP Anomaly Detection
-* Peng S, Nie J, Shu X, et al. <b>A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network[J]</b>. arXiv preprint arXiv:2112.12793, 2021. [Link](https://arxiv.org/abs/2112.12793)
+* Peng S, Nie J, Shu X, et al. <b>A multi-view framework for BGP anomaly detection via graph attention network[J]</b>. Computer Networks, 2022, 214: 109129. [Link](https://www.sciencedirect.com/science/article/pii/S138912862200250X)
 
 ### Botnet Detection
 * Yang Y, Wang L. <b>LGANet: Local Graph Attention Network for Peer-to-Peer Botnet Detection[C]</b>//2021 3rd International Conference on Advances in Computer Technology, Information Science and Communication (CTISC). IEEE, 2021: 31-36. [Link](https://ieeexplore.ieee.org/abstract/document/9527678/)
@@ -289,6 +290,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Tianfu Wang, Qilin Fan, Xiuhua Li, Xu Zhang, Qingyu Xiong, Shu Fu, and Min Gao, <b>"DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning"</b>, In Proc. of  IEEE ICC, June 2021, Montreal, CA. [Link](https://ieeexplore.ieee.org/document/9500964/) [Code](https://github.com/GeminiLight/drl-sfcp)
 
 ### Virtual Network Function
+* Ma S, Yao H, Mai T, et al. <b>Graph Convolutional Network Aided Virtual Network Embedding for Internet of Thing[J]</b>. IEEE Transactions on Network Science and Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9894092/)
 * Park M, Lee Y, Yeom I, et al. <b>Gemma: Reinforcement Learning-Based Graph Embedding and Mapping for Virtual Network Applications[J]</b>. IEEE Access, 2021, 9: 105463-105476. [Link](https://ieeexplore.ieee.org/abstract/document/9496654/)
 * Xie Y, Huang L, Kong Y, et al. <b>Virtualized Network Function Forwarding Graph Placing in sdn and nfv-Enabled iot Networks: A Graph Neural Network Assisted Deep Reinforcement Learning Method[J]</b>. IEEE Transactions on Network and Service Management, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9590522/)
 * Yang Z, Gu R, Ji Y. <b>Virtual Network Function Placement Based on Differentiated Weight Graph Convolutional Neural Network and Maximal Weight Matching[C]</b>//2021 IEEE Symposium on Computers and Communications (ISCC). IEEE, 2021: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9631516/)
@@ -309,6 +311,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Yeom S, Choi C, Kolekar S S, et al. <b>Graph Convolutional Network based Link State Prediction[C]</b>//2021 22nd Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2021: 246-249. [Link](https://ieeexplore.ieee.org/abstract/document/9562682/)
 
 # Others
+* Ferriol-Galmés M, Suárez-Varela J, Paillissé J, et al. <b>Building a digital twin for network optimization using graph neural networks[J]</b>. Computer Networks, 2022: 109329. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622003681) [Code](https://github.com/BNN-UPC/Papers/)
 * Li Y, Li J, Pang J. <b>A Graph Attention Mechanism-Based Multiagent Reinforcement-Learning Method for Task Scheduling in Edge Computing[J]</b>. Electronics, 2022, 11(9): 1357. [Link](https://www.mdpi.com/2079-9292/11/9/1357)
 * He M, Zhuang L, Yang S, et al. <b>An Energy-Efficient VNE Algorithm Based on Bidirectional Long Short-Term Memory[J]</b>. Journal of Network and Systems Management, 2022, 30(3): 1-29. [Link](https://link.springer.com/article/10.1007/s10922-022-09657-5)
 * Zhu J, Li R, Zhao Z, et al. <b>AoI-based Temporal Attention Graph Neural Network for Popularity Prediction in ICN[C]</b>//2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2022: 1284-1289.
