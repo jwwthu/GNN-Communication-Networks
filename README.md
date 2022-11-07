@@ -121,6 +121,7 @@ The list would be updated monthly.
 
 ## 2021
 ### Journal
+* Shen Y, Shi Y, Zhang J, et al. <b>Graph neural networks for scalable radio resource management: Architecture design and theoretical analysis[J]</b>. IEEE Journal on Selected Areas in Communications, 2021, 39(1): 101-115. [Link](https://ieeexplore.ieee.org/abstract/document/9252917) [Code](https://github.com/yshenaw/GNN-Resource-Management)
 * Lee M, Yu G, Dai H. <b>Decentralized Inference with Graph Neural Networks in Wireless Communication Systems[J]</b>. IEEE Transactions on Mobile Computing, 2021. [Link](https://ieeexplore.ieee.org/document/9606569)
 * Li N, Jia S, Li Q. <b>Traffic Message Channel Prediction Based on Graph Convolutional Network[J]</b>. IEEE Access, 2021, 9: 135423-135431. [Link](https://ieeexplore.ieee.org/abstract/document/9546773/)
 * Guo J, Yang C. <b>Learning Power Allocation for Multi-cell-multi-user Systems with Heterogeneous Graph Neural Network[J]</b>. IEEE Transactions on Wireless Communications, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9505260/)
@@ -209,7 +210,7 @@ The list would be updated monthly.
 ### Preprint
 * Nikoloska I, Simeone O. <b>Black-box and modular meta-learning for power control via random edge graph neural networks[J]</b>. arXiv preprint arXiv:2108.13178, 2021. [Link](https://arxiv.org/abs/2108.13178)
 * Zhang X, Zhang Z, Yang L. <b>Joint User Association and Power Allocation in Heterogeneous Ultra Dense Network via Semi-Supervised Representation Learning[J]</b>. arXiv preprint arXiv:2103.15367, 2021. [Link](https://arxiv.org/abs/2103.15367v1)
-* Nikoloska I, Simeone O. <b>Fast Power Control Adaptation via Meta-Learning for Random Edge Graph Neural Networks[J]</b>. arXiv preprint arXiv:2105.00459, 2021. [Link](https://arxiv.org/abs/2105.00459) [Code](https://github.com/kclip/Meta-Power-Control)
+* Nikoloska I, Simeone O. <b>Fast Power Control Adaptation via Meta-Learning for Random Edge Graph Neural Networks[J]</b>. arXiv preprint arXiv:2105.00459, 2021. [Link](https://arxiv.org/abs/2105.00459) [Code (Empty)](https://github.com/kclip/Meta-Power-Control)
 * He S, Yuan J, An Z, et al. <b>Joint User Scheduling and Beamforming Design for Multiuser MISO Downlink Systems[J]</b>. arXiv preprint arXiv:2112.01738, 2021. [Link](https://arxiv.org/abs/2112.01738)
 * Zhao Z, Verma G, Rao C, et al. <b>Link scheduling using graph neural networks[J]</b>. arXiv preprint arXiv:2109.05536, 2021. [Link](https://arxiv.org/abs/2109.05536) [Code](https://github.com/zhongyuanzhao/distgcn)
 * Naderializadeh N. <b>Wireless Link Scheduling via Graph Representation Learning: A Comparative Study of Different Supervision Levels[J]</b>. arXiv preprint arXiv:2110.01722, 2021. [Link](https://arxiv.org/abs/2110.01722v1) [Code](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)
