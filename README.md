@@ -26,8 +26,10 @@ The list would be updated monthly.
 
 ## 2022
 ### Journal
+* Zhang S, Yin B, Zhang W, et al. <b>Topology aware deep learning for wireless network optimization[J]</b>. IEEE Transactions on Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9791131)
 * Jiang W, Bai Y. <b>APGNN: Alarm Propagation Graph Neural Network for fault detection and alarm root cause analysis[J]</b>. Computer Networks, 2022: 109485. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622005199)
 * Sun Y, Zhang J, Zhang Y, et al. <b>Environment information-based channel prediction method assisted by graph neural network[J]</b>. China Communications, 2022, 19(11): 1-15. [Link](https://ieeexplore.ieee.org/abstract/document/9956934/)
+* He S, Xiong S, Zhang W, et al. <b>GBLinks: GNN-based beam selection and link activation for ultra-dense D2D mmWave networks[J]</b>. IEEE Transactions on Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9732971)
 * Yuan S, Zhang Y, Ma T, et al. <b>Graph convolutional reinforcement learning for resource allocation in hybrid overlay–underlay cognitive radio network with network slicing[J]</b>. IET Communications, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cmu2.12527)
 * Granato G, Martino A, Baiocchi A, et al. <b>Graph-Based Multi-Label Classification for WiFi Network Traffic Analysis[J]</b>. Applied Sciences, 2022, 12(21): 11303. [Link](https://www.mdpi.com/2076-3417/12/21/11303)
 * Yang L, Wei Y, Yu F R, et al. <b>Joint Routing and Scheduling Optimization in Time-Sensitive Networks Using Graph Convolutional Network-based Deep Reinforcement Learning[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9819969/)
@@ -145,7 +147,6 @@ The list would be updated monthly.
 * Dong T, Zhuang Z, Qi Q, et al. <b>Intelligent Joint Network Slicing and Routing via GCN-powered Multi-Task Deep Reinforcement Learning[J]</b>. IEEE Transactions on Cognitive Communications and Networking, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9655323/)
 * Sun F, Wang P, Zhao J, et al. <b>Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns[J]</b>. IEEE Transactions on Mobile Computing, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9428552/)
 * Pan C, Zhu J, Kong Z, et al. <b>DC-STGCN: Dual-Channel Based Graph Convolutional Networks for Network Traffic Forecasting[J]</b>. Electronics, 2021, 10(9): 1014. [Link](https://www.mdpi.com/1085378)
-* He S, Xiong S, Zhang W, et al. <b>GBLinks: GNN-based beam selection and link activation for ultra-dense D2D mmWave networks[J]</b>. IEEE Transactions on Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9732971)
 * Wu Y, Dai H N, Tang H. <b>Graph neural networks for anomaly detection in industrial internet of things[J]</b>. IEEE Internet of Things Journal, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9471816/)
 * Chen T, Zhang X, You M, et al. <b>A GNN-Based Supervised Learning Framework for Resource Allocation in Wireless IoT Networks[J]</b>. IEEE Internet of Things Journal, 2021, 9(3): 1712-1724. [Link](https://ieeexplore.ieee.org/abstract/document/9462385/)
 * Chen G, Wu J, Yang W, et al. <b>Leveraging Graph Convolutional-LSTM for Energy Efficient Caching in Blockchain-based Green IoT[J]</b>. IEEE Transactions on Green Communications and Networking, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9388892/)
@@ -219,11 +220,12 @@ The list would be updated monthly.
 * Le T T, Le Nguyen P, Binh H T T, et al. <b>GCRINT: Network Traffic Imputation Using Graph Convolutional Recurrent Neural Network[C]</b>//ICC 2021-IEEE International Conference on Communications. IEEE, 2021: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9500687/) [Code](https://github.com/vananle/GCRINT.git)
 * Poularakis K, Qin Q, Le F, et al. <b>Generalizable and Interpretable Deep Learning for Network Congestion Prediction[C]</b>. IEEE International Conference on Network Protocols (ICNP), 2021. [Link](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper16.pdf)
 * Park J, Choi B, Lee C, et al. <b>GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices[C]</b>//Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies. 2021: 154-167. [Link](https://dl.acm.org/doi/abs/10.1145/3485983.3494866)
+* Nikoloska I, Simeone O. <b>Fast power control adaptation via meta-learning for random edge graph neural networks[C]</b>//2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2021: 146-150. [Link](https://ieeexplore.ieee.org/abstract/document/9593131/) [Code (Empty)](https://github.com/kclip/Meta-Power-Control)
+* Mai X, Fu Q, Chen Y. <b>Packet routing with graph attention multi-agent reinforcement learning[C]</b>//2021 IEEE Global Communications Conference (GLOBECOM). IEEE, 2021: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9685941/)
 
 ### Preprint
 * Nikoloska I, Simeone O. <b>Black-box and modular meta-learning for power control via random edge graph neural networks[J]</b>. arXiv preprint arXiv:2108.13178, 2021. [Link](https://arxiv.org/abs/2108.13178)
 * Zhang X, Zhang Z, Yang L. <b>Joint User Association and Power Allocation in Heterogeneous Ultra Dense Network via Semi-Supervised Representation Learning[J]</b>. arXiv preprint arXiv:2103.15367, 2021. [Link](https://arxiv.org/abs/2103.15367v1)
-* Nikoloska I, Simeone O. <b>Fast Power Control Adaptation via Meta-Learning for Random Edge Graph Neural Networks[J]</b>. arXiv preprint arXiv:2105.00459, 2021. [Link](https://arxiv.org/abs/2105.00459) [Code (Empty)](https://github.com/kclip/Meta-Power-Control)
 * He S, Yuan J, An Z, et al. <b>Joint User Scheduling and Beamforming Design for Multiuser MISO Downlink Systems[J]</b>. arXiv preprint arXiv:2112.01738, 2021. [Link](https://arxiv.org/abs/2112.01738)
 * Zhao Z, Verma G, Rao C, et al. <b>Link scheduling using graph neural networks[J]</b>. arXiv preprint arXiv:2109.05536, 2021. [Link](https://arxiv.org/abs/2109.05536) [Code](https://github.com/zhongyuanzhao/distgcn)
 * Naderializadeh N. <b>Wireless Link Scheduling via Graph Representation Learning: A Comparative Study of Different Supervision Levels[J]</b>. arXiv preprint arXiv:2110.01722, 2021. [Link](https://arxiv.org/abs/2110.01722v1) [Code](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)
@@ -231,7 +233,6 @@ The list would be updated monthly.
 * Chang L, Branco P. <b>Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms[J]</b>. arXiv preprint arXiv:2111.13597, 2021. [Link](https://arxiv.org/abs/2111.13597)
 * Liu M, Li J, Lu H. <b>Routing in Small Satellite Networks: A GNN-based Learning Approach[J]</b>. arXiv preprint arXiv:2108.08523, 2021. [Link](https://arxiv.org/abs/2108.08523)
 * Pang B, Fu Y, Ren S, et al. <b>CGNN: Traffic Classification with Graph Neural Network[J]</b>. arXiv preprint arXiv:2110.09726, 2021. [Link](https://arxiv.org/abs/2110.09726)
-* Mai X, Fu Q, Chen Y. <b>Packet Routing with Graph Attention Multi-agent Reinforcement Learning[J]</b>. arXiv preprint arXiv:2107.13181, 2021. [Link](https://arxiv.org/abs/2107.13181)
 * Shabka Z, Zervas G. <b>Nara: Learning Network-Aware Resource Allocation Algorithms for Cloud Data Centres[J]</b>. arXiv preprint arXiv:2106.02412, 2021. [Link](https://arxiv.org/abs/2106.02412)
 * Ding S, Zhang F, Luo X, et al. <b>GCN-Geo: A Graph Convolution Network-based Fine-grained IP Geolocation Framework[J]</b>. arXiv preprint arXiv:2112.10767, 2021. [Link](https://arxiv.org/abs/2112.10767)
 * Lv M, Dong C, Chen T, et al. <b>A Heterogeneous Graph Learning Model for Cyber-Attack Detection[J]</b>. arXiv preprint arXiv:2112.08986, 2021. [Link](https://arxiv.org/abs/2112.08986)
@@ -287,12 +288,11 @@ The list would be updated monthly.
 * Kim H G, Park S, Heo D, et al. <b>Graph Neural Network-based Virtual Network Function Deployment Prediction[C]</b>//2020 16th International Conference on Network and Service Management (CNSM). IEEE, 2020: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/9269085/)
 * Kim H G, Park S, Lange S, et al. <b>Graph neural network-based virtual network function management[C]</b>//2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2020: 13-18. [Link](https://ieeexplore.ieee.org/abstract/document/9237002/)
 * Scotti A, Moghadam N N, Liu D, et al. <b>Graph Neural Networks for Massive MIMO Detection[C]</b>. ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+), 2020. [Link](https://arxiv.org/abs/2007.05703)
+* Mallick T, Kiran M, Mohammed B, et al. <b>Dynamic graph neural network for traffic forecasting in wide area networks[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/9512748/)
+* Gao Z, Eisen M, Ribeiro A. <b>Resource allocation via graph neural networks in free space optical fronthaul networks[C]</b>//GLOBECOM 2020-2020 IEEE Global Communications Conference. IEEE, 2020: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9322426/)
 
 ### Preprint
 * Ferriol-Galmés M, Suárez-Varela J, Barlet-Ros P, et al. <b>Applying Graph-based Deep Learning To Realistic Network Scenarios[J]</b>. arXiv preprint arXiv:2010.06686, 2020. [Link](https://arxiv.org/abs/2010.06686)
-* Mallick T, Kiran M, Mohammed B, et al. <b>Dynamic Graph Neural Network for Traffic Forecasting in Wide Area Networks[J]</b>. arXiv preprint arXiv:2008.12767, 2020. [Link](https://arxiv.org/abs/2008.12767)
-* Gao Z, Eisen M, Ribeiro A. <b>Resource Allocation via Graph Neural Networks in Free Space Optical Fronthaul Networks[J]</b>. arXiv preprint arXiv:2006.15005, 2020. [Link](https://arxiv.org/abs/2006.15005)
-* Heo D N, Lee D, Kim H G, et al. <b>Reinforcement Learning of Graph Neural Networks for Service Function Chaining[J]</b>. arXiv preprint arXiv:2011.08406, 2020. [Link](https://arxiv.org/abs/2011.08406)
 * Dong J, Chen S, Ha P Y J, et al. <b>A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network[J]</b>. arXiv preprint arXiv:2010.05437, 2020. [Link](https://arxiv.org/abs/2010.05437)
 
 ## 2019
@@ -311,9 +311,6 @@ The list would be updated monthly.
 * Badia-Sampera A, Suárez-Varela J, Almasan P, et al. <b>Towards more realistic network models based on Graph Neural Networks[C]</b>//Proceedings of the 15th International Conference on emerging Networking EXperiments and Technologies. 2019: 14-16. [Link](https://dl.acm.org/doi/abs/10.1145/3360468.3366773)
 * Rusek K, Suárez-Varela J, Mestres A, et al. <b>Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN[C]</b>//Proceedings of the 2019 ACM Symposium on SDN Research. 2019: 140-151. [Link](https://dl.acm.org/doi/abs/10.1145/3314148.3314357)
 * Jalodia N, Henna S, Davy A. <b>Deep Reinforcement Learning for Topology-Aware VNF Resource Prediction in NFV Environments[C]</b>//2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN). IEEE, 2019: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9040154/)
-
-### Preprint
-* Zhang S, Yin B, Cheng Y. <b>Topology Aware Deep Learning for Wireless Network Optimization[J]</b>. arXiv preprint arXiv:1912.08336, 2019. [Link](https://arxiv.org/abs/1912.08336)
 
 ## 2018
 ### Journal
