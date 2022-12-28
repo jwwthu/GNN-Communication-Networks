@@ -12,6 +12,8 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Suárez-Varela J, Almasan P, Ferriol-Galmés M, et al. <b>Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities[J]</b>. IEEE Network, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9846958/)
 * Tam P, Song I, Kang S, et al. <b>Graph Neural Networks for Intelligent Modelling in Network Management and Orchestration: A Survey on Communications[J]</b>. Electronics, 2022, 11(20): 3371. [Link](https://www.mdpi.com/1893620)
 * Ivanov A, Tonchev K, Poulkov V, et al. <b>Graph-Based Resource Allocation for Integrated Space and Terrestrial Communications[J]</b>. Sensors, 2022, 22(15): 5778. [Link](https://www.mdpi.com/1424-8220/22/15/5778)
+* Lee M, Yu G, Dai H, et al. <b>Graph Neural Networks Meet Wireless Communications: Motivation, Applications, and Future Directions[J]</b>. IEEE Wireless Communications, 2022, 29(5): 12-19. [Link](https://ieeexplore.ieee.org/abstract/document/9979700/)
+* Li Y, Xie S, Wan Z, et al. <b>Graph-powered learning methods in the Internet of Things: A survey[J]</b>. Machine Learning with Applications, 2023, 11: 100441. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022001165)
 
 # Competition
 * Suárez-Varela J, Ferriol-Galmés M, López A, et al. <b>The graph neural networking challenge: a worldwide competition for education in AI/ML for networks[J]</b>. ACM SIGCOMM Computer Communication Review, 2021, 51(3): 9-16. [Link](https://dl.acm.org/doi/abs/10.1145/3477482.3477485)
@@ -26,6 +28,12 @@ The list would be updated monthly.
 
 ## 2022
 ### Journal
+* Wang R, Zhang J, Gu Z, et al. <b>Edge-enhanced graph neural network for DU-CU placement and lightpath provision in X-Haul networks[J]</b>. Journal of Optical Communications and Networking, 2022, 14(10): 828-839. [Link](https://opg.optica.org/abstract.cfm?uri=jocn-14-10-828)
+* Ye M, Zhang J, Guo Z, et al. <b>FlexDATE: Flexible and Disturbance-Aware Traffic Engineering With Reinforcement Learning in Software-Defined Networks[J]</b>. IEEE/ACM Transactions on Networking, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9954204/)
+* Huoh T L, Luo Y, Li P, et al. <b>Flow-based Encrypted Network Traffic Classification with Graph Neural Networks[J]</b>. IEEE Transactions on Network and Service Management, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9979671/)
+* Tan K, Bremner D, Le Kernec J, et al. <b>Graph neural network-based cell switching for energy optimization in ultra-dense heterogeneous networks[J]</b>. Scientific Reports, 2022, 12(1): 1-18. [Link](https://www.nature.com/articles/s41598-022-25800-3)
+* Liu T, Li P, Gu Y, et al. <b>S-Glint: Secure Federated Graph Learning with Traffic Throttling and Flow Scheduling[J]</b>. IEEE Transactions on Green Communications and Networking, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810521/)
+* Yang R, Yu A, Cai L, et al. <b>Subspace clustering via graph auto-encoder network for unknown encrypted traffic recognition[J]</b>. Cybersecurity, 2022, 5(1): 1-15. [Link](https://cybersecurity.springeropen.com/articles/10.1186/s42400-022-00131-y)
 * Zhang S, Yin B, Zhang W, et al. <b>Topology aware deep learning for wireless network optimization[J]</b>. IEEE Transactions on Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9791131)
 * Jiang W, Bai Y. <b>APGNN: Alarm Propagation Graph Neural Network for fault detection and alarm root cause analysis[J]</b>. Computer Networks, 2022: 109485. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622005199)
 * Sun Y, Zhang J, Zhang Y, et al. <b>Environment information-based channel prediction method assisted by graph neural network[J]</b>. China Communications, 2022, 19(11): 1-15. [Link](https://ieeexplore.ieee.org/abstract/document/9956934/)
@@ -80,6 +88,11 @@ The list would be updated monthly.
 * Xiao J, Yang L, Zhong F, et al. <b>Robust anomaly-based intrusion detection system for in-vehicle network by graph neural network framework[J]</b>. Applied Intelligence, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10489-022-03412-8)
 
 ### Conference
+* Herath J D, Wakodikar P P, Yang P, et al. <b>CFGExplainer: Explaining Graph Neural Network-Based Malware Classification from Control Flow Graphs[C]</b>//2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN). IEEE, 2022: 172-184. [Link](https://ieeexplore.ieee.org/abstract/document/9833560/) [Code](https://github.com/dherath/CFGExplainer)
+* Yaqoob M, Trestian R, Nguyen H X. <b>Data-driven network performance prediction for B5G networks: a graph neural network approach[C]</b>//2022 IEEE Ninth International Conference on Communications and Electronics (ICCE). IEEE, 2022: 55-60. [Link](https://ieeexplore.ieee.org/abstract/document/9852048/)
+* Hara T, Sasabe M. <b>Deep Reinforcement Learning with Graph Neural Networks for Capacitated Shortest Path Tour based Service Chaining[C]</b>//2022 18th International Conference on Network and Service Management (CNSM). IEEE, 2022: 19-27. [Link](https://ieeexplore.ieee.org/abstract/document/9965166/)
+* Hou Q, Lee M, Yu G, et al. <b>Learning to Optimize Resource in Dynamic Wireless Environment via Meta-Gating Graph Neural Network[C]</b>//2022 International Symposium on Wireless Communication Systems (ISWCS). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9940416/)
+* Bhavanasi S S, Pappone L, Esposito F. <b>Routing with Graph Convolutional Networks and Multi-Agent Deep Reinforcement Learning[C]</b>//2022 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN). IEEE, 2022: 72-77. [Link](https://ieeexplore.ieee.org/abstract/document/9974607/)
 * Zhou X, Zhang J, Wen C K, et al. <b>Extrinsic Graph Neural Network-Aided Expectation Propagation for Turbo-MIMO Receiver[C]</b>//2022 International Symposium on Wireless Communication Systems (ISWCS). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9940373)
 * Li Y, Xie Q, Wang W, et al. <b>GCN-Based Topology Design for Decentralized Federated Learning in IoV[C]</b>//2022 23rd Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9919905/)
 * Yang L, Cheng M, Qu J, et al. <b>GraphHO: A Graph-based Handover Optimization System for Cellular Networks[C]</b>//2022 International Symposium on Wireless Communication Systems (ISWCS). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9940345/)
