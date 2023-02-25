@@ -28,10 +28,28 @@ The list would be updated monthly.
 
 ## 2023
 ### Journal
+* Janu D, Kumar S, Singh K. <b>A Graph Convolution Network Based Adaptive Cooperative Spectrum Sensing in Cognitive Radio Network[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9918025/)
+* Wang Z, Zhou Y, Zou Y, et al. <b>A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032291/) [Code](https://github.com/XiaoWangya/GNNforOTAFL.git)
+* Diao Z, Xie G, Wang X, et al. <b>EC-GCN: A encrypted traffic classification framework based on multi-scale graph convolution networks[J]</b>. Computer Networks, 2023: 109614. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623000592)
+* Zhou X, Bilal M, Dou R, et al. <b>Edge Computation Offloading With Content Caching in 6G-Enabled IoV[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10034418/)
+* Zhang H, Zeng K, Lin S. <b>Federated Graph Neural Network for Fast Anomaly Detection in Controller Area Networks[J]</b>. IEEE Transactions on Information Forensics and Security, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10026810/)
+* Ghasemzadeh P, Hempel M, Wang H, et al. <b>GGCNN: An Efficiency-Maximizing Gated Graph Convolutional Neural Network Architecture for Automatic Modulation Identification[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032243/)
+* Zeng L, Yang C, Huang P, et al. <b>GNN at the Edge: Cost-Efficient Graph Neural Network Processing over Distributed Edge Servers[J]</b>. IEEE Journal on Selected Areas in Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9996395/)
+* Theodoropoulos T, Makris A, Kontopoulos I, et al. <b>Graph neural networks for representing multivariate resource usage: A multiplayer mobile gaming case-study[J]</b>. International Journal of Information Management Data Insights, 2023, 3(1): 100158. [Link](https://www.sciencedirect.com/science/article/pii/S2667096823000058)
+* Sun Z, Mo Y, Yu C. <b>Graph Reinforcement Learning based Task offloading for Multi-access Edge Computing[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9592681/)
+* Wei W, Fu L, Gu H, et al. <b>GRL-PS: Graph embedding-based DRL approach for adaptive path selection[J]</b>. IEEE Transactions on Network and Service Management, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10029936/)
+* Liu T, Li Z, Long H, et al. <b>NT-GNN: Network Traffic Graph for 5G Mobile IoT Android Malware Detection[J]</b>. Electronics, 2023, 12(4): 789. [Link](https://www.mdpi.com/2116430)
 * Ren G, Cheng G, Fu N. <b>Accurate Encrypted Malicious Traffic Identification via Traffic Interaction Pattern Using Graph Convolutional Network[J]</b>. Applied Sciences, 2023, 13(3): 1483. [Link](https://www.mdpi.com/2089532)
+
+### Conference
+* Ge Z, Hou J, Nayak A. <b>Forecasting SDN End-to-End Latency Using Graph Neural Network[C]</b>//2023 International Conference on Information Networking (ICOIN). IEEE, 2023: 293-298. [Link](https://ieeexplore.ieee.org/abstract/document/10048915/)
+
+### Preprint
+* He H, Yu X, Zhang J, et al. <b>Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems[J]</b>. arXiv preprint arXiv:2302.06896, 2023. [Link](https://arxiv.org/abs/2302.06896)
 
 ## 2022
 ### Journal
+* Zhao X, Wu C. <b>Large-scale Machine Learning Cluster Scheduling via Multi-agent Graph Reinforcement Learning[J]</b>. IEEE Transactions on Network and Service Management, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9667106)
 * Chen J, Xiao W, Li X, et al. <b>A routing optimization method for software-defined optical transport networks based on ensembles and reinforcement learning[J]</b>. Sensors, 2022, 22(21): 8139. [Link](https://www.mdpi.com/1424-8220/22/21/8139)
 * Bernárdez G, Suárez-Varela J, López A, et al. <b>MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering[J]</b>. IEEE Transactions on Cognitive Communications and Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10013773/) [Code](https://github.com/BNN-UPC/Papers/wiki/MAGNNETO-TE)
 * Nikoloska I, Simeone O. <b>Modular meta-learning for power control via random edge graph neural networks[J]</b>. IEEE Transactions on Wireless Communications, 2022, 22(1): 457-470. [Link](https://ieeexplore.ieee.org/abstract/document/9852158/)
@@ -96,6 +114,7 @@ The list would be updated monthly.
 * Xiao J, Yang L, Zhong F, et al. <b>Robust anomaly-based intrusion detection system for in-vehicle network by graph neural network framework[J]</b>. Applied Intelligence, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10489-022-03412-8)
 
 ### Conference
+* Wang H, Zhang R, Cheng X, et al. <b>Federated Spatio-Temporal Traffic Flow Prediction Based on Graph Convolutional Network[C]</b>//2022 14th International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2022: 221-225. [Link](https://ieeexplore.ieee.org/abstract/document/10039323/)
 * Tonchev K, Neshov N, Ivanov A, et al. <b>Automatic Modulation Classification using Graph Convolutional Neural Networks for Time-frequency Representation[C]</b>//2022 25th International Symposium on Wireless Personal Multimedia Communications (WPMC). IEEE, 2022: 75-79. [Link](https://ieeexplore.ieee.org/abstract/document/10014833/)
 * Bai Y, Wang D, Song B. <b>A Knowledge Graph-based Cooperative Caching Scheme in MEC-enabled Heterogeneous Networks[C]</b>//GLOBECOM 2022-2022 IEEE Global Communications Conference. IEEE, 2022: 5959-5964. [Link](https://ieeexplore.ieee.org/abstract/document/10001575/)
 * Kim J, Lee H, Park S H. <b>Autoencoding Graph Neural Networks for Scalable Transceiver Design[C]</b>//2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall). IEEE, 2022: 1-2. [Link](https://ieeexplore.ieee.org/abstract/document/10012954/)
