@@ -245,6 +245,7 @@ The list would be updated monthly.
 * Tekbıyık K, Yurduseven O, Kurt G K. <b>Graph Attention Network-Based Single-Pixel Compressive Direction of Arrival Estimation[J]</b>. IEEE Communications Letters, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9648332/)
 
 ### Conference
+* Nagaraj K, Starke A, McNair J. <b>Glass: a graph learning approach for software defined network based smart grid ddos security[C]</b>//ICC 2021-IEEE International Conference on Communications. IEEE, 2021: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9500999/)
 * Li B, Verma G, Rao C, et al. <b>Energy-Efficient Power Allocation in Wireless Networks using Graph Neural Networks[C]</b>//2021 55th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2021: 732-736. [Link](https://ieeexplore.ieee.org/abstract/document/9723417/)
 * Chowdhury A, Verma G, Rao C, et al. <b>Efficient power allocation using graph neural networks and deep algorithm unfolding[C]</b>//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 4725-4729. [Link](https://ieeexplore.ieee.org/abstract/document/9415106/) [Code](https://github.com/archo48/unrolled-wmmse.git)
 * Shen Y, Zhang J, Song S H, et al. <b>AI Empowered Resource Management for Future Wireless Networks[C]</b>. Meditcom 2021. [Link](https://arxiv.org/abs/2106.06178v1)
