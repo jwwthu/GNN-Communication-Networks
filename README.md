@@ -28,6 +28,7 @@ The list would be updated monthly.
 
 ## 2023
 ### Journal
+* Xu X, Liu Y, Chen Q, et al. <b>Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications[J]</b>. IEEE Journal on Selected Areas in Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10038470/)
 * Janu D, Kumar S, Singh K. <b>A Graph Convolution Network Based Adaptive Cooperative Spectrum Sensing in Cognitive Radio Network[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9918025/)
 * Wang Z, Zhou Y, Zou Y, et al. <b>A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032291/) [Code](https://github.com/XiaoWangya/GNNforOTAFL.git)
 * Diao Z, Xie G, Wang X, et al. <b>EC-GCN: A encrypted traffic classification framework based on multi-scale graph convolution networks[J]</b>. Computer Networks, 2023: 109614. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623000592)
@@ -196,7 +197,6 @@ The list would be updated monthly.
 * Li B, Verma G, Segarra S. <b>Graph-based Algorithm Unfolding for Energy-aware Power Allocation in Wireless Networks[J]</b>. arXiv preprint arXiv:2201.11799, 2022. [Link](https://arxiv.org/abs/2201.11799) [Code](https://github.com/bl166/usca_power_control)
 * Zhao J, Yang C. <b>Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users[J]</b>. arXiv preprint arXiv:2203.03906, 2022. [Link](https://arxiv.org/abs/2203.03906)
 * Geyer F, Scheffler A, Bondorf S. <b>Network Calculus with Flow Prolongation--A Feedforward FIFO Analysis enabled by ML[J]</b>. arXiv preprint arXiv:2202.03004, 2022. [Link](https://arxiv.org/abs/2202.03004)
-* Xu X, Liu Y, Chen Q, et al. <b>Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications[J]</b>. arXiv preprint arXiv:2204.13766, 2022. [Link](https://arxiv.org/abs/2204.13766)
 * Xu X, Liu Y, Mu X, et al. <b>Artificial Intelligence Enabled NOMA Towards Next Generation Multiple Access[J]</b>. arXiv preprint arXiv:2206.04992, 2022. [Link](https://arxiv.org/abs/2206.04992)
 * Li H, Wang J, Wang Y. <b>Edge Graph Neural Networks for Massive MIMO Detection[J]</b>. arXiv preprint arXiv:2206.06979, 2022. [Link](https://arxiv.org/abs/2206.06979)
 * He H, Kosasihy A, Yu X, et al. <b>Graph Neural Network Enhanced Approximate Message Passing for MIMO Detection[J]</b>. arXiv preprint arXiv:2205.10620, 2022. [Link](https://arxiv.org/abs/2205.10620)
