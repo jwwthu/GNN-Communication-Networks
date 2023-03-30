@@ -28,6 +28,20 @@ The list would be updated monthly.
 
 ## 2023
 ### Journal
+* Hou J, Lu H, Nayak A. <b>A GNN-based proactive caching strategy in NDN networks[J]</b>. Peer-to-Peer Networking and Applications, 2023: 1-13. [Link](https://link.springer.com/article/10.1007/s12083-023-01464-2)
+* Zhang X, Zhao H, Wei J, et al. <b>Cooperative Trajectory Design of Multiple UAV Base Stations with Heterogeneous Graph Neural Networks[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9892688/) [Code](https://github.com/zhangxiaochen95/uav_bs_ctrl)
+* Schynol L, Pesavento M. <b>Coordinated sum-rate maximization in multicell MU-MIMO with deep unrolling[J]</b>. IEEE Journal on Selected Areas in Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10040241/) [Code](https://github.com/lsky96/gcnwmmse)
+* Deng X, Zhu J, Pei X, et al. <b>Flow Topology-based Graph Convolutional Network for Intrusion Detection in Label-Limited IoT Networks[J]</b>. IEEE Transactions on Network and Service Management, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9919790/)
+* Fawaz H, Lesca J, Quang P T A, et al. <b>Graph Convolutional Reinforcement Learning for Collaborative Queuing Agents[J]</b>. IEEE Transactions on Network and Service Management, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9969933/)
+* Gu Y, She C, Quan Z, et al. <b>Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10068338/) [Code](https://github.com/Yifan-Gu-SZU/GNN-aggregation-over-the-air)
+* Wang Z, Li Z, Pan H, et al. <b>Large-Scale Measurements and Prediction of DC-WAN Traffic[J]</b>. IEEE Transactions on Parallel and Distributed Systems, 2023, 34(5): 1390-1405. [Link](https://ieeexplore.ieee.org/abstract/document/10045033/) [Code](https://github.com/wzhCode/IntegNet)
+* Liu W, Cai J, Zhu Y, et al. <b>Load Balancing Inside Programmable Data Planes Based on Network Modeling Prediction Using a GNN with Network Behaviors[J]</b>. Computer Networks, 2023: 109695. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623001408)
+* Chen N, Shen S, Duan Y, et al. <b>Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks[J]</b>. Drones, 2023, 7(3): 165. [Link](https://www.mdpi.com/2504-446X/7/3/165)
+* Gao H, Zhu Q, Wang W. <b>Optimal deployment of large-scale wireless sensor networks based on graph clustering and matrix factorization[J]</b>. EURASIP Journal on Advances in Signal Processing, 2023, 2023(1): 1-17. [Link](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00995-3)
+* Nerini M, Clerckx B. <b>Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing[J]</b>. IEEE Wireless Communications Letters, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10011630/)
+* Pramod Kumar P, Sagar K. <b>Reinforcement learning and neuro‐fuzzy GNN‐based vertical handover decision on internet of vehicles[J]</b>. Concurrency and Computation: Practice and Experience, e7688, 2023. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7688)
+* Gao X, Wang J, Zhou M. <b>The Research of Resource Allocation Method Based onGCN-LSTM in 5G NetworkK[J]</b>. IEEE Communications Letters, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9961174/)
+* Lo W W, Kulatilleke G, Sarhan M, et al. <b>XG-BoT: An explainable deep graph neural network for botnet detection and forensics[J]</b>. Internet of Things, 2023: 100747. [Link](https://www.sciencedirect.com/science/article/pii/S2542660523000707)
 * Xu X, Liu Y, Chen Q, et al. <b>Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications[J]</b>. IEEE Journal on Selected Areas in Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10038470/)
 * Janu D, Kumar S, Singh K. <b>A Graph Convolution Network Based Adaptive Cooperative Spectrum Sensing in Cognitive Radio Network[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9918025/)
 * Wang Z, Zhou Y, Zou Y, et al. <b>A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032291/) [Code](https://github.com/XiaoWangya/GNNforOTAFL.git)
@@ -43,9 +57,12 @@ The list would be updated monthly.
 * Ren G, Cheng G, Fu N. <b>Accurate Encrypted Malicious Traffic Identification via Traffic Interaction Pattern Using Graph Convolutional Network[J]</b>. Applied Sciences, 2023, 13(3): 1483. [Link](https://www.mdpi.com/2089532)
 
 ### Conference
+* Kisanga P, Woungang I, Traore I, et al. <b>Network Anomaly Detection Using a Graph Neural Network[C]</b>//2023 International Conference on Computing, Networking and Communications (ICNC). IEEE, 2023: 61-65. [Link](https://ieeexplore.ieee.org/abstract/document/10074111/)
 * Ge Z, Hou J, Nayak A. <b>Forecasting SDN End-to-End Latency Using Graph Neural Network[C]</b>//2023 International Conference on Information Networking (ICOIN). IEEE, 2023: 293-298. [Link](https://ieeexplore.ieee.org/abstract/document/10048915/)
 
 ### Preprint
+* Perera T, Atapattu S, Fang Y, et al. <b>Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks[J]</b>. arXiv preprint arXiv:2301.11166, 2023. [Link](https://arxiv.org/abs/2301.11166) [Code](https://github.com/tharaka-perera/flex-net)
+* Xiao B, Li R, Wang F, et al. <b>Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles[J]</b>. arXiv preprint arXiv:2303.13213, 2023. [Link](https://arxiv.org/abs/2303.13213)
 * He H, Yu X, Zhang J, et al. <b>Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems[J]</b>. arXiv preprint arXiv:2302.06896, 2023. [Link](https://arxiv.org/abs/2302.06896)
 
 ## 2022
@@ -117,6 +134,10 @@ The list would be updated monthly.
 * Xiao J, Yang L, Zhong F, et al. <b>Robust anomaly-based intrusion detection system for in-vehicle network by graph neural network framework[J]</b>. Applied Intelligence, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s10489-022-03412-8)
 
 ### Conference
+* Chen L, Yan N, Zhang B, et al. <b>A General Backdoor Attack to Graph Neural Networks Based on Explanation Method[C]</b>//2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2022: 759-768. [Link](https://ieeexplore.ieee.org/abstract/document/10063438/)
+* Boukhtouta A, Madi T, Pourzandi M, et al. <b>Cloud Native Applications Profiling using a Graph Neural Networks Approach[C]</b>//2022 IEEE Future Networks World Forum (FNWF). IEEE, 2022: 220-227. [Link](https://ieeexplore.ieee.org/abstract/document/10056608/)
+* Yan N, Wen Y, Chen L, et al. <b>Deepro: Provenance-based APT Campaigns Detection via GNN[C]</b>//2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2022: 747-758. [Link](https://ieeexplore.ieee.org/abstract/document/10063343/)
+* Liu Y, She C, Hardjawana W, et al. <b>Graph Neural Networks for Timely Updates of Short Packets in Interference-Limited Networks[C]</b>//2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022: 1050-1054. [Link](https://ieeexplore.ieee.org/abstract/document/10051893/)
 * Coleman J, Kiamari M, Clark L, et al. <b>Graph Convolutional Network-based Scheduler for Distributing Computation in the Internet of Robotic Things[C]</b>//MILCOM 2022-2022 IEEE Military Communications Conference (MILCOM). IEEE, 2022: 1070-1075. [Link](https://ieeexplore.ieee.org/abstract/document/10017673) [Code](https://github.com/ANRGUSC/gsdn)
 * Li B, Swami A, Segarra S. <b>Power allocation for wireless federated learning using graph neural networks[C]</b>//ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 5243-5247. [Link](https://ieeexplore.ieee.org/abstract/document/9747764/) [Code](https://github.com/bl166/WirelessFL-PDGNet)
 * Wang H, Zhang R, Cheng X, et al. <b>Federated Spatio-Temporal Traffic Flow Prediction Based on Graph Convolutional Network[C]</b>//2022 14th International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2022: 221-225. [Link](https://ieeexplore.ieee.org/abstract/document/10039323/)
@@ -194,6 +215,7 @@ The list would be updated monthly.
 * Latif H, Paillissé J, Yang J, et al. <b>Unveiling the potential of graph neural networks for BGP anomaly detection[C]</b>//Proceedings of the 1st International Workshop on Graph Neural Networking. 2022: 7-12. [Link](https://dl.acm.org/doi/abs/10.1145/3565473.3569188)
 
 ### Preprint
+* Zhao Z, Radojicic B, Verma G, et al. <b>Delay-aware Backpressure Routing Using Graph Neural Networks[J]</b>. arXiv preprint arXiv:2211.10748, 2022. [Link](https://arxiv.org/abs/2211.10748) [Code](https://github.com/zhongyuanzhao/dutyBP)
 * Li B, Verma G, Segarra S. <b>Graph-based Algorithm Unfolding for Energy-aware Power Allocation in Wireless Networks[J]</b>. arXiv preprint arXiv:2201.11799, 2022. [Link](https://arxiv.org/abs/2201.11799) [Code](https://github.com/bl166/usca_power_control)
 * Zhao J, Yang C. <b>Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users[J]</b>. arXiv preprint arXiv:2203.03906, 2022. [Link](https://arxiv.org/abs/2203.03906)
 * Geyer F, Scheffler A, Bondorf S. <b>Network Calculus with Flow Prolongation--A Feedforward FIFO Analysis enabled by ML[J]</b>. arXiv preprint arXiv:2202.03004, 2022. [Link](https://arxiv.org/abs/2202.03004)
