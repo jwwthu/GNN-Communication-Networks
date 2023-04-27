@@ -14,6 +14,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Ivanov A, Tonchev K, Poulkov V, et al. <b>Graph-Based Resource Allocation for Integrated Space and Terrestrial Communications[J]</b>. Sensors, 2022, 22(15): 5778. [Link](https://www.mdpi.com/1424-8220/22/15/5778)
 * Lee M, Yu G, Dai H, et al. <b>Graph Neural Networks Meet Wireless Communications: Motivation, Applications, and Future Directions[J]</b>. IEEE Wireless Communications, 2022, 29(5): 12-19. [Link](https://ieeexplore.ieee.org/abstract/document/9979700/)
 * Li Y, Xie S, Wan Z, et al. <b>Graph-powered learning methods in the Internet of Things: A survey[J]</b>. Machine Learning with Applications, 2023, 11: 100441. [Link](https://www.sciencedirect.com/science/article/pii/S2666827022001165)
+* Dong G, Tang M, Wang Z, et al. <b>Graph neural networks in IoT: A survey[J]</b>. ACM Transactions on Sensor Networks, 2023, 19(2): 1-50. [Link](https://dl.acm.org/doi/abs/10.1145/3565973) [GNN4IoT Repository](https://github.com/GuiminDong/GNN4IoT) 
 
 # Competition
 * Suárez-Varela J, Ferriol-Galmés M, López A, et al. <b>The graph neural networking challenge: a worldwide competition for education in AI/ML for networks[J]</b>. ACM SIGCOMM Computer Communication Review, 2021, 51(3): 9-16. [Link](https://dl.acm.org/doi/abs/10.1145/3477482.3477485)
