@@ -240,7 +240,6 @@ The list would be updated monthly.
 * Li H, Wang J, Wang Y. <b>Edge Graph Neural Networks for Massive MIMO Detection[J]</b>. arXiv preprint arXiv:2206.06979, 2022. [Link](https://arxiv.org/abs/2206.06979)
 * He H, Kosasihy A, Yu X, et al. <b>Graph Neural Network Enhanced Approximate Message Passing for MIMO Detection[J]</b>. arXiv preprint arXiv:2205.10620, 2022. [Link](https://arxiv.org/abs/2205.10620)
 * Kosasih A, Onasis V, Miloslavskaya V, et al. <b>Graph Neural Network Aided MU-MIMO Detectors[J]</b>. arXiv preprint arXiv:2206.09381, 2022. [Link](https://arxiv.org/abs/2206.09381) [Code](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)
-* Shen Y, Zhang J, Song S H, et al. <b>Graph Neural Networks for Wireless Communications: From Theory to Practice[J]</b>. arXiv preprint arXiv:2203.10800, 2022. [Link](https://arxiv.org/abs/2203.10800)
 * Azeez S. <b>Graph-based Deep Learning for Spatial Reuse Optimization in Dense WLAN Deployments[J]</b>. 2022. [Link](https://www.techrxiv.org/articles/preprint/Graph-based_Deep_Learning_for_Spatial_Reuse_Optimization_in_Dense_WLAN_Deployments/19391477/1/files/34447511.pdf)
 * Lima V, Eisen M, Gatsis K, et al. <b>Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels[J]</b>. arXiv preprint arXiv:2201.09859, 2022. [Link](https://arxiv.org/abs/2201.09859)
 
