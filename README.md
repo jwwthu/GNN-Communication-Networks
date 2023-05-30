@@ -67,6 +67,7 @@ The list would be updated monthly.
 ### Conference
 * Kisanga P, Woungang I, Traore I, et al. <b>Network Anomaly Detection Using a Graph Neural Network[C]</b>//2023 International Conference on Computing, Networking and Communications (ICNC). IEEE, 2023: 61-65. [Link](https://ieeexplore.ieee.org/abstract/document/10074111/)
 * Ge Z, Hou J, Nayak A. <b>Forecasting SDN End-to-End Latency Using Graph Neural Network[C]</b>//2023 International Conference on Information Networking (ICOIN). IEEE, 2023: 293-298. [Link](https://ieeexplore.ieee.org/abstract/document/10048915/)
+* Perera T, Alapallu S, Fang Y, et al. <b>Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks[C]</b>//2023 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10118726/) [Code](https://github.com/tharaka-perera/flex-net)
 
 ### Preprint
 * Du J, Luo T. <b>Digital Twin Graph: Automated Domain-Agnostic Construction, Fusion, and Simulation of IoT-Enabled World[J]</b>. arXiv preprint arXiv:2304.10018, 2023. [Link](https://arxiv.org/abs/2304.10018)
@@ -75,7 +76,6 @@ The list would be updated monthly.
 * Jin Y, Daoutis M, Girdzijauskas S, et al. <b>Learning Cellular Coverage from Real Network Configurations using GNNs[J]</b>. arXiv preprint arXiv:2304.10328, 2023. [Link](https://arxiv.org/abs/2304.10328) [Code](https://github.com/bluelancer/GNN4NDOSuppliment)
 * Paul R, Cohen K, Kedar G. <b>Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach[J]</b>. arXiv preprint arXiv:2303.15544, 2023. [Link](https://arxiv.org/abs/2303.15544)
 * Zhu J, Li R, Chen X, et al. <b>Semantics-enhanced Temporal Graph Networks for Content Caching and Energy Saving[J]</b>. arXiv preprint arXiv:2301.12355, 2023. [Link](https://arxiv.org/abs/2301.12355)
-* Perera T, Atapattu S, Fang Y, et al. <b>Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks[J]</b>. arXiv preprint arXiv:2301.11166, 2023. [Link](https://arxiv.org/abs/2301.11166) [Code](https://github.com/tharaka-perera/flex-net)
 * Xiao B, Li R, Wang F, et al. <b>Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles[J]</b>. arXiv preprint arXiv:2303.13213, 2023. [Link](https://arxiv.org/abs/2303.13213)
 * He H, Yu X, Zhang J, et al. <b>Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems[J]</b>. arXiv preprint arXiv:2302.06896, 2023. [Link](https://arxiv.org/abs/2302.06896)
 
