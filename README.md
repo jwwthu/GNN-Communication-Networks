@@ -29,6 +29,11 @@ The list would be updated monthly.
 
 ## 2023
 ### Journal
+* Huang Y, Yang D, Feng B, et al. <b>A GNN-Enabled Multipath Routing Algorithm for Spatial-Temporal Varying LEO Satellite Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10321744/)
+* Lv W, Yang P, Zheng T, et al. <b>Graph Reinforcement Learning-based Dependency-Aware Microservice Deployment in Edge Computing[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10162207/)
+* Deng L, Liu X Y, Zheng H, et al. <b>Graph-Tensor Neural Networks for Network Traffic Data Imputation[J]</b>. IEEE/ACM Transactions on Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10124242/) [Code](https://github.com/summerdenglei/graph-tensor-neural-network)
+* Janarthanan A, Srinivasan V. <b>Multi‐objective cluster head‐based energy aware routing using optimized auto‐metric graph neural network for secured data aggregation in Wireless Sensor Network[J]</b>. International Journal of Communication Systems, 2023. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5664)
+* Chen Z, Cheng G, Niu D, et al. <b>WFF-EGNN: Encrypted Traffic Classification based on Weaved Flow Fragment via Ensemble Graph Neural Networks[J]</b>. IEEE Transactions on Machine Learning in Communications and Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10278468/)
 * Xiao D, Zhang J A, Liu X, et al. <b>A Two-Stage GCN-Based Deep Reinforcement Learning Framework for SFC Embedding in Multi-Datacenter Networks[J]</b>. IEEE Transactions on Network and Service Management, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10146517/)
 * Zhang P, Luo Z, Kumar N, et al. <b>CE-VNE: Constraint escalation virtual network embedding algorithm assisted by graph convolutional networks[J]</b>. Journal of Network and Computer Applications, 2023: 103736. [Link](https://www.sciencedirect.com/science/article/pii/S1084804523001558)
 * Chen Z, Zhu B, Zhou C. <b>Container cluster placement in edge computing based on reinforcement learning incorporating graph convolutional networks scheme[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000470)
@@ -140,6 +145,10 @@ The list would be updated monthly.
 * Ren G, Cheng G, Fu N. <b>Accurate Encrypted Malicious Traffic Identification via Traffic Interaction Pattern Using Graph Convolutional Network[J]</b>. Applied Sciences, 2023, 13(3): 1483. [Link](https://www.mdpi.com/2089532)
 
 ### Conference
+* Guo J, Yang C. <b>A Size-Generalizable GNN for Learning Precoding[C]</b>//2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10333362/)
+* Saheed K, Henna S. <b>Heterogeneous Graph Transformer for Advanced Persistent Threat Classification in Wireless Networks[C]</b>//2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN). IEEE, 2023: 15-20. [Link](https://ieeexplore.ieee.org/abstract/document/10329745/)
+* Liao X, Sun H, Wang J, et al. <b>Solving Distributed ACL Policies Under Complex Constraints with Graph Neural Networks[C]</b>//2023 IEEE 31st International Conference on Network Protocols (ICNP). IEEE, 2023: 1-12. [Link](https://ieeexplore.ieee.org/abstract/document/10355624/)
+* Rezazadeh F, Barrachina-Muñoz S, Zeydan E, et al. <b>X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks[C]</b>//2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN). IEEE, 2023: 172-174. [Link](https://ieeexplore.ieee.org/abstract/document/10329778/)
 * Mehrabian A, Bahrami S, Wong V W S. <b>A dynamic Bernstein graph recurrent network for wireless cellular traffic prediction[C]</b>//ICC 2023-IEEE International Conference on Communications. IEEE, 2023: 3842-3847. [Link](https://ieeexplore.ieee.org/abstract/document/10279102/)
 * Lin X, Zheng L, Shi K, et al. <b>Bulk Transfers With GCN Scheduling In Digital Twin Networks[C]</b>//ICC 2023-IEEE International Conference on Communications. IEEE, 2023: 447-452. [Link](https://ieeexplore.ieee.org/abstract/document/10279087/)
 * He P, Tang Y, Xu F, et al. <b>Cellular Network Optimization Using Unfolding-Based Graph Neural Networks[C]</b>//2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2023: 551-555. [Link](https://ieeexplore.ieee.org/abstract/document/10304472/)
@@ -207,6 +216,8 @@ The list would be updated monthly.
 * Perera T, Alapallu S, Fang Y, et al. <b>Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks[C]</b>//2023 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10118726/) [Code](https://github.com/tharaka-perera/flex-net)
 
 ### Preprint
+* Zhao Z, Perazzone J, Verma G, et al. <b>Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks[J]</b>. arXiv preprint arXiv:2312.02471, 2023. [Link](https://arxiv.org/abs/2312.02471)
+* Li X, Chen M, Liu Y, et al. <b>Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks[J]</b>. arXiv preprint arXiv:2302.02878, 2023. [Link](https://arxiv.org/abs/2302.02878)
 * Güemes-Palau C, Galmés M F, Cabellos-Aparicio A, et al. <b>Building a Graph-based Deep Learning network model from captured traffic traces[J]</b>. arXiv preprint arXiv:2310.11889, 2023. [Link](https://arxiv.org/abs/2310.11889)
 * Zhu J, Li R, Chen X, et al. <b>Semantics-enhanced Temporal Graph Networks for Content Caching and Energy Saving[J]</b>. arXiv preprint arXiv:2301.12355, 2023. [Link](https://arxiv.org/abs/2301.12355)
 * Skocaj M, Rivera P E I, Verdone R, et al. <b>Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning[J]</b>. arXiv preprint arXiv:2301.11903, 2023. [Link](https://arxiv.org/abs/2301.11903)
