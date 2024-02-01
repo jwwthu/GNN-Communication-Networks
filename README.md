@@ -27,8 +27,24 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 # Literature
 The list would be updated monthly.
 
+## 2024
+### Journal
+* Zhao L, He C, Zhu X. <b>A Fault Diagnosis Method for 5G Cellular Networks Based on Knowledge and Data Fusion[J]</b>. Sensors, 2024, 24(2): 401. [Link](https://www.mdpi.com/1424-8220/24/2/401)
+* Ngo D T, Aouedi O, Piamrat K, et al. <b>Empowering Digital Twin for Future Networks with Graph Neural Networks: Overview, Enabling Technologies, Challenges, and Opportunities[J]</b>. Future Internet, 2023, 15(12): 377. [Link](https://www.mdpi.com/1999-5903/15/12/377)
+* Chen H, Chen P, Wang B, et al. <b>Graph neural network based robust anomaly detection at service level in SDN driven microservice system[J]</b>. Computer Networks, 2024, 239: 110135. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623005807)
+* Lyu S, Peng L, Chang S Y. <b>Investigating Large-Scale RIS-Assisted Wireless Communications Using GNN[J]</b>. IEEE Transactions on Consumer Electronics, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10384798/)
+* He J, Cheng N, Yin Z, et al. <b>Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10387448/)
+
+### Preprint
+* Van Chien T, Le H A, Tung T H, et al. <b>Joint Power Allocation and User Scheduling in Integrated Satellite-Terrestrial Cell-Free Massive MIMO IoT Systems[J]</b>. arXiv preprint arXiv:2401.03754, 2024. [Link](https://arxiv.org/abs/2401.03754)
+* Li H, Li P, Assis K D, et al. <b>NetMind: Adaptive RAN Baseband Function Placement by GCN Encoding and Maze-solving DRL[J]</b>. arXiv preprint arXiv:2401.06722, 2024. [Link](https://arxiv.org/abs/2401.06722) [Code](https://github.com/OCEAN-98/NetMind)
+
 ## 2023
 ### Journal
+* Pamuklu T, Syed A, Kennedy W S, et al. <b>Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture[J]</b>. IEEE Networking Letters, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10145960/)
+* Lee M, Yu G, Dai H. <b>Privacy-preserving decentralized inference with graph neural networks in wireless networks[J]</b>. IEEE Transactions on Wireless Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10140175/)
+* Wu Q, Ng B K, Lam C T, et al. <b>Shared Graph Neural Network for Channel Decoding[J]</b>. Applied Sciences, 2023, 13(23): 12657. [Link](https://www.mdpi.com/2076-3417/13/23/12657)
+* Tang D, Zhang Q. <b>UAV 5G: enabled wireless communications using enhanced deep learning for edge devices[J]</b>. Wireless Networks, 2023: 1-14. [Link](https://link.springer.com/article/10.1007/s11276-023-03589-x)
 * Huang Y, Yang D, Feng B, et al. <b>A GNN-Enabled Multipath Routing Algorithm for Spatial-Temporal Varying LEO Satellite Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10321744/)
 * Lv W, Yang P, Zheng T, et al. <b>Graph Reinforcement Learning-based Dependency-Aware Microservice Deployment in Edge Computing[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10162207/)
 * Deng L, Liu X Y, Zheng H, et al. <b>Graph-Tensor Neural Networks for Network Traffic Data Imputation[J]</b>. IEEE/ACM Transactions on Networking, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10124242/) [Code](https://github.com/summerdenglei/graph-tensor-neural-network)
@@ -216,6 +232,7 @@ The list would be updated monthly.
 * Perera T, Alapallu S, Fang Y, et al. <b>Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks[C]</b>//2023 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10118726/) [Code](https://github.com/tharaka-perera/flex-net)
 
 ### Preprint
+* Mourya S, Reddy P, Amuru S D, et al. <b>Spectral Temporal Graph Neural Network for massive MIMO CSI Prediction[J]</b>. arXiv preprint arXiv:2312.02159, 2023. [Link](https://arxiv.org/abs/2312.02159) [Code](https://github.com/sharanmourya/CSI-Prediction/)
 * Zhao Z, Perazzone J, Verma G, et al. <b>Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks[J]</b>. arXiv preprint arXiv:2312.02471, 2023. [Link](https://arxiv.org/abs/2312.02471)
 * Li X, Chen M, Liu Y, et al. <b>Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks[J]</b>. arXiv preprint arXiv:2302.02878, 2023. [Link](https://arxiv.org/abs/2302.02878)
 * Güemes-Palau C, Galmés M F, Cabellos-Aparicio A, et al. <b>Building a Graph-based Deep Learning network model from captured traffic traces[J]</b>. arXiv preprint arXiv:2310.11889, 2023. [Link](https://arxiv.org/abs/2310.11889)
