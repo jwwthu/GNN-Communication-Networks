@@ -161,6 +161,7 @@ The list would be updated monthly.
 * Ren G, Cheng G, Fu N. <b>Accurate Encrypted Malicious Traffic Identification via Traffic Interaction Pattern Using Graph Convolutional Network[J]</b>. Applied Sciences, 2023, 13(3): 1483. [Link](https://www.mdpi.com/2089532)
 
 ### Conference
+* Gharavian V, Khosrowshahli R, Mahmoud Q H, et al. <b>Intrusion Detection for Wireless Sensor Network Using Graph Neural Networks[C]</b>//2023 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2023: 807-813. [Link](https://ieeexplore.ieee.org/abstract/document/10372004/)
 * Guo J, Yang C. <b>A Size-Generalizable GNN for Learning Precoding[C]</b>//2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10333362/)
 * Saheed K, Henna S. <b>Heterogeneous Graph Transformer for Advanced Persistent Threat Classification in Wireless Networks[C]</b>//2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN). IEEE, 2023: 15-20. [Link](https://ieeexplore.ieee.org/abstract/document/10329745/)
 * Liao X, Sun H, Wang J, et al. <b>Solving Distributed ACL Policies Under Complex Constraints with Graph Neural Networks[C]</b>//2023 IEEE 31st International Conference on Network Protocols (ICNP). IEEE, 2023: 1-12. [Link](https://ieeexplore.ieee.org/abstract/document/10355624/)
