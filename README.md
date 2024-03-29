@@ -29,6 +29,9 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Tam P, Ros S, Song I, et al. <b>A Survey of Intelligent End-to-End Networking Solutions: Integrating Graph Neural Networks and Deep Reinforcement Learning Approaches[J]</b>. Electronics, 2024, 13(5): 994. [Link](https://www.mdpi.com/2079-9292/13/5/994)
+* Li Y, Lu Y, Ai B, et al. <b>GNN-Enabled Max-Min Fair Beamforming[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10463170/)
+* Xia W, He D, Yu L. <b>Locational detection of false data injection attacks in smart grids: A graph convolutional attention network approach[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10275102/)
 * Kannamma R, Umadevi K S. <b>An efficient frame preemption algorithm for time-sensitive networks using enhanced graph convolutional network with particle swarm optimization[J]</b>. Measurement: Sensors, 2024, 31: 100964. [Link](https://www.sciencedirect.com/science/article/pii/S2665917423003008)
 * Huang S, Zhang H, Wang X, et al. <b> Fine-Grained Spatio-Temporal Distribution Prediction of Mobile Content Delivery in 5G Ultra-Dense Networks[J]</b>. IEEE Transactions on Mobile Computing, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/9969934)
 * Zhao J, Tang T, Bu B, et al. <b>Graph neural network‐based attack prediction for communication‐based train control systems[J]</b>. CAAI Transactions on Intelligence Technology, 2024. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cit2.12288)
@@ -40,6 +43,15 @@ The list would be updated monthly.
 * He J, Cheng N, Yin Z, et al. <b>Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10387448/)
 * Zhong L, Chen Z, Cheng H, et al. <b>Lightweight Federated Graph Learning for Accelerating Classification Inference in UAV-assisted MEC Systems[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10433561/)
 
+### Conference
+* Tao T, Hou J, Nayak A. <b>A GNN-DRL-based Collaborative Edge Computing Strategy for Partial Offloading[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 3717-3722. [Link](https://ieeexplore.ieee.org/abstract/document/10436825/)
+* Hou J, Nayak A. <b>A Graph-Based Spatial-Temporal Deep Reinforcement Learning Model for Edge Caching[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 6456-6461. [Link](https://ieeexplore.ieee.org/abstract/document/10436966/)
+* Hou J, Tao T, Lu H, et al. <b>An Optimized GNN-Based Caching Scheme for SDN-Based Information-Centric Networks[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 401-406. [Link](https://ieeexplore.ieee.org/abstract/document/10437541/)
+* Li W, Liao M, Wang X, et al. <b>Applying Multiple-Correlations of Network to Cell Traffic Forecasting[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 7405-7410. [Link](https://ieeexplore.ieee.org/abstract/document/10437893/)
+* Yang N, Wang S, Chen M, et al. <b>Energy Efficient Collaborative Federated Learning Design: A Graph Neural Network based Approach[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 164-169. [Link](https://ieeexplore.ieee.org/abstract/document/10437172/)
+* Zhang L, Cheng H, Peng S, et al. <b>Flowlet-Level Routing Optimization with GNN-Based Multi-Agent Deep Reinforcement Learning[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 5214-5219. [Link](https://ieeexplore.ieee.org/abstract/document/10437339/)
+* Langari A S, Yeganeh L, Nguyen K K. <b>Grothendieck Graph Neural Network (GGNN): A Path-Based Framework For Network Modelling[C]</b>//GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023: 6548-6553. [Link](https://ieeexplore.ieee.org/abstract/document/10437032/)
+* Shan L, Hu Y, Shan W, et al. <b>MAGLN: Multi-Attention Graph Learning Network for Channel Estimation in Multi-User SIMO[C]</b>//2023 28th Asia Pacific Conference on Communications (APCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10460648/)
 
 ### Preprint
 * Shokrnezhad M, Taleb T. <b>ORIENT: A Priority-Aware Energy-Efficient Approach for Latency-Sensitive Applications in 6G[J]</b>. arXiv preprint arXiv:2402.06931, 2024. [Link](https://arxiv.org/abs/2402.06931)
