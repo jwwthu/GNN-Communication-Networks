@@ -29,6 +29,13 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Chang L, Branco P. <b>Embedding residuals in graph-based solutions: the E-ResSAGE and E-ResGAT algorithms. A case study in intrusion detection[J]</b>. Applied Intelligence, 2024: 1-16. [Link](https://link.springer.com/article/10.1007/s10489-024-05404-2)
+* Zhang P, Wang E, Luo Z, et al. <b>Energy-Efficient Virtual Network Embedding: A Deep Reinforcement Learning Approach Based on Graph Convolutional Networks[J]</b>. Electronics, 2024, 13(10): 1918. [Link](https://www.mdpi.com/2079-9292/13/10/1918)
+* Park J, Choi B, Lee C, et al. <b>Graph Neural Network-Based SLO-Aware Proactive Resource Autoscaling Framework for Microservices[J]</b>. IEEE/ACM Transactions on Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10518007/)
+* Wu Y, Nie L, Xiong X, et al. <b>Incremental Update Intrusion Detection for Industry 5.0 Security: A Graph Attention Network-Enabled Approach[J]</b>. IEEE Transactions on Consumer Electronics, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10314779)
+* Yang H, Cheng N, Sun R, et al. <b>Knowledge-Driven Resource Allocation for Wireless Networks: A WMMSE Unrolled Graph Neural Network Approach[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10443615/)
+* Shi Y, Wang W, Zhu X, et al. <b>Low Earth Orbit Satellite Network Routing Algorithm Based on Graph Neural Networks and Deep Q-Network[J]</b>. Applied Sciences, 2024, 14(9): 3840. [Link](https://www.mdpi.com/2076-3417/14/9/3840)
+* Lian L, Chen N, Yuan X, et al. <b>Low-complexity collaborative caching strategy based on spatio-temporal graph convolutional model[J]</b>. Computer Networks, 2024: 110490. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624003220)
 * Chen Z, Ge W, Fei H, et al. <b>A lightweight graph neural networks based enhanced separated detection scheme for downlink MIMO-SCMA systems[J]</b>. IEICE Transactions on Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10417039/)
 * Alam S, Diaz Rivera J J, Sarwar M M S, et al. <b>Assuring Efficient Path Selection in an Intent-Based Networking System: A Graph Neural Networks and Deep Reinforcement Learning Approach[J]</b>. Journal of Network and Systems Management, 2024, 32(2): 41. [Link](https://link.springer.com/article/10.1007/s10922-024-09814-y)
 * Narayanan S, Archana K S. <b>Auto metric graph neural network optimized with woodpecker mating algorithm for detecting network layer attacks in mobile ad hoc networks[J]</b>. Smart Science, 2024: 1-14. [Link](https://www.tandfonline.com/doi/abs/10.1080/23080477.2024.2326234)
@@ -71,6 +78,7 @@ The list would be updated monthly.
 * Shan L, Hu Y, Shan W, et al. <b>MAGLN: Multi-Attention Graph Learning Network for Channel Estimation in Multi-User SIMO[C]</b>//2023 28th Asia Pacific Conference on Communications (APCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10460648/)
 
 ### Preprint
+* Le H A, Van Chien T, Choi W. <b>Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems[J]</b>. arXiv preprint arXiv:2405.01979, 2024. [Link](https://arxiv.org/abs/2405.01979)
 * Xu R, Wu G, Wang W, et al. <b>Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network[J]</b>. arXiv preprint arXiv:2403.01501, 2024. [Link](https://arxiv.org/abs/2403.01501) [Code](https://github.com/renj-xu/NEGSC)
 * Zacharopoulos K, Koutroumpas G, Arapakis I, et al. <b>LightningNet: Distributed Graph-based Cellular Network Performance Forecasting for the Edge[J]</b>. arXiv preprint arXiv:2403.18810, 2024. [Link](https://arxiv.org/abs/2403.18810)
 * Shokrnezhad M, Taleb T. <b>ORIENT: A Priority-Aware Energy-Efficient Approach for Latency-Sensitive Applications in 6G[J]</b>. arXiv preprint arXiv:2402.06931, 2024. [Link](https://arxiv.org/abs/2402.06931)
@@ -206,6 +214,7 @@ The list would be updated monthly.
 * Ren G, Cheng G, Fu N. <b>Accurate Encrypted Malicious Traffic Identification via Traffic Interaction Pattern Using Graph Convolutional Network[J]</b>. Applied Sciences, 2023, 13(3): 1483. [Link](https://www.mdpi.com/2089532)
 
 ### Conference
+* Gowtham V, Schreiner F, Corici M I, et al. <b>Intent-based Networking for QoS-aware Cloud and Transport Network Management based on Graph Neural Networks[C]</b>//2023 IEEE Future Networks World Forum (FNWF). IEEE, 2023: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/10520590/)
 * Zhang G, Song J, Hu Y, et al. <b>Fine-grained Task Scheduling Based on Graph Neural Network and Federated Learning in Vehicle Edge Computing[C]</b>//2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 2467-2474. [Link](https://ieeexplore.ieee.org/abstract/document/10476220/)
 * Meng Q, Luo Z, Zheng X, et al. <b>Hierarchical Collaborative Resource Scheduling in Industrial Internet of Things based on Graph Neural Networks and Deep Reinforcement Learning[C]</b>//2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 2647-2654. [Link](https://ieeexplore.ieee.org/abstract/document/10475975/)
 * Xu T, Tan X, Zhang Z, et al. <b>MIMO Detection Based on Graph Neural Network with Belief Propagation[C]</b>//2023 International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2023: 1095-1100. [Link](https://ieeexplore.ieee.org/abstract/document/10404811/)
