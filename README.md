@@ -29,6 +29,7 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Xu R, Wu G, Wang W, et al. <b>Applying self-supervised learning to network intrusion detection for network flows with graph neural network[J]</b>. Computer Networks, 2024: 110495. [Link](https://www.sciencedirect.com/science/article/pii/S138912862400327X) [Code](https://github.com/renj-xu/NEGSC)
 * Chang L, Branco P. <b>Embedding residuals in graph-based solutions: the E-ResSAGE and E-ResGAT algorithms. A case study in intrusion detection[J]</b>. Applied Intelligence, 2024: 1-16. [Link](https://link.springer.com/article/10.1007/s10489-024-05404-2)
 * Zhang P, Wang E, Luo Z, et al. <b>Energy-Efficient Virtual Network Embedding: A Deep Reinforcement Learning Approach Based on Graph Convolutional Networks[J]</b>. Electronics, 2024, 13(10): 1918. [Link](https://www.mdpi.com/2079-9292/13/10/1918)
 * Park J, Choi B, Lee C, et al. <b>Graph Neural Network-Based SLO-Aware Proactive Resource Autoscaling Framework for Microservices[J]</b>. IEEE/ACM Transactions on Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10518007/)
@@ -79,7 +80,6 @@ The list would be updated monthly.
 
 ### Preprint
 * Le H A, Van Chien T, Choi W. <b>Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems[J]</b>. arXiv preprint arXiv:2405.01979, 2024. [Link](https://arxiv.org/abs/2405.01979)
-* Xu R, Wu G, Wang W, et al. <b>Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network[J]</b>. arXiv preprint arXiv:2403.01501, 2024. [Link](https://arxiv.org/abs/2403.01501) [Code](https://github.com/renj-xu/NEGSC)
 * Zacharopoulos K, Koutroumpas G, Arapakis I, et al. <b>LightningNet: Distributed Graph-based Cellular Network Performance Forecasting for the Edge[J]</b>. arXiv preprint arXiv:2403.18810, 2024. [Link](https://arxiv.org/abs/2403.18810)
 * Shokrnezhad M, Taleb T. <b>ORIENT: A Priority-Aware Energy-Efficient Approach for Latency-Sensitive Applications in 6G[J]</b>. arXiv preprint arXiv:2402.06931, 2024. [Link](https://arxiv.org/abs/2402.06931)
 * Weil J, Bao Z, Abboud O, et al. <b>Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing[J]</b>. arXiv preprint arXiv:2402.05027, 2024. [Link](https://arxiv.org/abs/2402.05027) [Code](https://github.com/jw3il/graph-marl)
