@@ -30,6 +30,11 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Ma H, Gu Y, Wu H, et al. <b>A dual incentive mechanism based on graph attention neural network and contract in mobile opportunistic networks[J]. Physical Communication, 2024, 67: 102485. [Link](https://www.sciencedirect.com/science/article/pii/S1874490724002039)
+* Wang X, Guan K, He D, et al. <b>Graph Neural Network enabled Propagation Graph Method for Channel Modeling[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10484975/)
+* Jiang Q, Xu X, Bilal M, et al. <b>Potential game based distributed IoV service offloading with graph attention networks in mobile edge computing[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10462033/)
+* Yonghui H, Zuodong J, Peng Q, et al. <b>Task offloading and resource allocation in NOMA-VEC: A multi-agent deep graph reinforcement learning algorithm[J]</b>. China Communications, 2024, 21(8): 79-88. [Link](https://ieeexplore.ieee.org/abstract/document/10670133/)
+* Geng Z, She C, Wang R, et al. <b>Zero-Shot Learning for Beam Management in LEO Satellite Communications[J]</b>. IEEE Transactions on Wireless Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10516308/)
 * Esmaeili B, Azmoodeh A, Dehghantanha A, et al. <b>A GNN-Based adversarial internet of things Malware Detection Framework for critical infrastructure: Studying Gafgyt, Mirai and Tsunami campaigns[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10194255/) [Code](https://github.com/CyberScienceLab/Our-Papers/tree/main/GNN-Adversarial-Detection)
 * Li F, Lin J, Wang Y, et al. <b>Distributed Hierarchical Temporal Graph Learning for Communication-Efficient High-Dimensional Industrial IoT Modeling[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10533257/)
 * Tran D H, Park M. <b>FN-GNN: A Novel Graph Embedding Approach for Enhancing Graph Neural Networks in Network Intrusion Detection Systems[J]</b>. Applied Sciences, 2024, 14(16): 6932. [Link](https://www.mdpi.com/2076-3417/14/16/6932)
@@ -130,6 +135,14 @@ The list would be updated monthly.
 * Shan L, Hu Y, Shan W, et al. <b>MAGLN: Multi-Attention Graph Learning Network for Channel Estimation in Multi-User SIMO[C]</b>//2023 28th Asia Pacific Conference on Communications (APCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10460648/)
 
 ### Preprint
+* Sun M, Li Z, Wu S, et al. <b>A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks[J]</b>. arXiv preprint arXiv:2408.17252, 2024. [Link](https://arxiv.org/abs/2408.17252)
+* Li B, Verma G, Efimov T, et al. <b>GLANCE: Graph-based Learnable Digital Twin for Communication Networks[J]</b>. arXiv preprint arXiv:2408.09040, 2024. [Link](https://arxiv.org/abs/2408.09040)
+* Wang Q, Lu Y, Chen W, et al. <b>GNN-Enabled Optimization of Placement and Transmission Design for UAV Communications[J]</b>. arXiv preprint arXiv:2410.02277, 2024. [Link](https://arxiv.org/abs/2410.02277)
+* Shan Z, Yi X, Liang L, et al. <b>GRLinQ: An Intelligent Spectrum Sharing Mechanism for Device-to-Device Communications with Graph Reinforcement Learning[J]</b>. arXiv preprint arXiv:2408.09394, 2024. [Link](https://arxiv.org/abs/2408.09394)
+* Huang K, Liang L, Yi X, et al. <b>Meta-Learning Empowered Graph Neural Networks for Radio Resource Management[J]</b>. arXiv preprint arXiv:2408.16239, 2024. [Link](https://arxiv.org/abs/2408.16239)
+* Zhang R, Lu Y, Chen W, et al. <b>Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense Wireless Networks[J]</b>. arXiv preprint arXiv:2410.02289, 2024. [Link](https://arxiv.org/abs/2410.02289)
+* Wu Z, Ishigaki G, Gour R, et al. <b>Multi-domain Network Slice Partitioning: A Graph Neural Network Algorithm[J]</b>. arXiv preprint arXiv:2408.15342, 2024. [Link](https://arxiv.org/abs/2408.15342)
+* Hu Z, Han C, Gerstacker W, et al. <b>Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks[J]</b>. arXiv preprint arXiv:2409.07911, 2024. [Link](https://arxiv.org/abs/2409.07911)
 * Kim M, Lee H, Hwang S, et al. <b>Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks[J]</b>. arXiv preprint arXiv:2407.03280, 2024. [Link](https://arxiv.org/abs/2407.03280)
 * Ji M, Wu Q, Fan P, et al. <b>Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications[J]</b>. arXiv preprint arXiv:2407.06518, 2024. [Link](https://arxiv.org/abs/2407.06518) [Code](https://github.com/qiongwu86/GNN-and-DRL-Based-Resource-Allocation-for-V2X-Communications)
 * Hou Y, Ye H, Zhang Y, et al. <b>RoutePlacer: An End-to-End Routability-Aware Placer with Graph Neural Network[J]</b>. arXiv preprint arXiv:2406.02651, 2024. [Link](https://arxiv.org/abs/2406.02651) [Code](https://github.com/sorarain/RoutePlacer)
