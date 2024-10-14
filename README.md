@@ -30,7 +30,8 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
-* Ma H, Gu Y, Wu H, et al. <b>A dual incentive mechanism based on graph attention neural network and contract in mobile opportunistic networks[J]. Physical Communication, 2024, 67: 102485. [Link](https://www.sciencedirect.com/science/article/pii/S1874490724002039)
+* Mehrabian A, Wong V W S. <b>Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems[J]</b>. IEEE Transactions on Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10472941) [Code](https://github.com/Ali-Meh619/MHGphormer)
+* Ma H, Gu Y, Wu H, et al. <b>A dual incentive mechanism based on graph attention neural network and contract in mobile opportunistic networks[J]</b>. Physical Communication, 2024, 67: 102485. [Link](https://www.sciencedirect.com/science/article/pii/S1874490724002039)
 * Wang X, Guan K, He D, et al. <b>Graph Neural Network enabled Propagation Graph Method for Channel Modeling[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10484975/)
 * Jiang Q, Xu X, Bilal M, et al. <b>Potential game based distributed IoV service offloading with graph attention networks in mobile edge computing[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10462033/)
 * Yonghui H, Zuodong J, Peng Q, et al. <b>Task offloading and resource allocation in NOMA-VEC: A multi-agent deep graph reinforcement learning algorithm[J]</b>. China Communications, 2024, 21(8): 79-88. [Link](https://ieeexplore.ieee.org/abstract/document/10670133/)
