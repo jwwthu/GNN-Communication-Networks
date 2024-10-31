@@ -5,6 +5,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Jianping W, Guangqiu Q, Chunming W, et al. <b>Federated learning for network attack detection using attention-based graph neural networks[J]</b>. Scientific Reports, 2024, 14(1): 19088. [Link](https://www.nature.com/articles/s41598-024-70032-2)
 * Jiang W. <b>Graph-based Deep Learning for Communication Networks: A Survey[J]</b>. Computer Communications, 2022, 185:40-54. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0140366421004874)
 	* For the surveyed studies in different scenarios, you may check [survey.md](https://github.com/jwwthu/GNN-Communication-Networks/blob/main/survey.md)
+* Jiang W, Han H, Zhang Y, et al. <b>Graph Neural Networks for Routing Optimization: Challenges and Opportunities[J]</b>. Sustainability, 2024, 16(21): 9239. [Link](https://www.mdpi.com/2071-1050/16/21/9239)
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
