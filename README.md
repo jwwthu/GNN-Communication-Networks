@@ -30,6 +30,13 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Shen J, Lin Y, Zhang Y, et al. <b>Content Caching-Assisted Vehicular Edge Computing Using Multi-Agent Graph Attention Reinforcement Learning[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10715675/)
+* Kim J, Cho Y, Kim J. <b>Edge Convolution Graph Neural Network assisted Power Allocation for Wireless IoT Networks[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10676980/)
+* Pan Y, Wang X, Xu Z, et al. <b>GNN-Empowered Effective Partial Observation MARL Method for AoI Management in Multi-UAV Network[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10643550/) [Code](https://github.com/UNIC-Lab/Qedgix)
+* Wang S, Zhang S, Ma J, et al. <b>Graph Neural Network-Based WiFi Indoor Localization System With Access Point Selection[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10601173/)
+* Zhang S, Liu A, Han C, et al. <b>GRLR: Routing With Graph Neural Network and Reinforcement Learning for Mega LEO Satellite Constellations[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10701016/)
+* Li X, Zhang S, Li H, et al. <b>RadioGAT: A Joint Model-based and Data-driven Framework for Multi-band Radiomap Reconstruction via Graph Attention Networks[J]</b>. IEEE Transactions on Wireless Communications, 2024. [Link](https://ieeexplore.ieee.org/document/10682510)
+* Wan S, Wang Z, Zhou Y. <b>Scalable Hybrid Beamforming for Multi-User MISO Systems: A Graph Neural Network Approach[J]</b>. IEEE Transactions on Wireless Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10542657/)
 * Mehrabian A, Wong V W S. <b>Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems[J]</b>. IEEE Transactions on Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10472941) [Code](https://github.com/Ali-Meh619/MHGphormer)
 * Ma H, Gu Y, Wu H, et al. <b>A dual incentive mechanism based on graph attention neural network and contract in mobile opportunistic networks[J]</b>. Physical Communication, 2024, 67: 102485. [Link](https://www.sciencedirect.com/science/article/pii/S1874490724002039)
 * Wang X, Guan K, He D, et al. <b>Graph Neural Network enabled Propagation Graph Method for Channel Modeling[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10484975/)
@@ -136,6 +143,8 @@ The list would be updated monthly.
 * Shan L, Hu Y, Shan W, et al. <b>MAGLN: Multi-Attention Graph Learning Network for Channel Estimation in Multi-User SIMO[C]</b>//2023 28th Asia Pacific Conference on Communications (APCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10460648/)
 
 ### Preprint
+* Hu S, Zou G, Yang S, et al. <b>GACL: Graph Attention Collaborative Learning for Temporal QoS Prediction[J]</b>. arXiv preprint arXiv:2408.10555, 2024. [Link](https://arxiv.org/abs/2408.10555v2)
+* Piroti S, Chawla A, Zanouda T. <b>Mobile Network Configuration Recommendation using Deep Generative Graph Neural Network[J]</b>. arXiv preprint arXiv:2406.04779, 2024. [Link](https://arxiv.org/abs/2406.04779)
 * Sun M, Li Z, Wu S, et al. <b>A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks[J]</b>. arXiv preprint arXiv:2408.17252, 2024. [Link](https://arxiv.org/abs/2408.17252)
 * Li B, Verma G, Efimov T, et al. <b>GLANCE: Graph-based Learnable Digital Twin for Communication Networks[J]</b>. arXiv preprint arXiv:2408.09040, 2024. [Link](https://arxiv.org/abs/2408.09040)
 * Wang Q, Lu Y, Chen W, et al. <b>GNN-Enabled Optimization of Placement and Transmission Design for UAV Communications[J]</b>. arXiv preprint arXiv:2410.02277, 2024. [Link](https://arxiv.org/abs/2410.02277)
