@@ -31,6 +31,15 @@ The list would be updated monthly.
 
 ## 2024
 ### Journal
+* Du Y, Qi N, Li X, et al. <b>Distributed multi-UAV trajectory planning for downlink transmission: A GNN-enhanced DRL approach[J]</b>. IEEE Wireless Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10716552/)
+* Guo X, Xu Y, Sun J, et al. <b>Dynamic Graph Temporal-Frequency Dual-Channel Network for Multi-band Spectrum Prediction[J]</b>. IEEE Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10679647/)
+* Khan S, Avgeris M, Gascon-Samson J, et al. <b>EMDTORA: Energy-Aware Multi-User Dependent Task Offloading and Resource Allocation in MEC Using Graph-Enabled DRL[J]</b>. IEEE Transactions on Green Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10787266/)
+* Latif-Martínez H, Suárez-Varela J, Cabellos-Aparicio A, et al. <b>GAT-AD: Graph Attention Networks for contextual anomaly detection in network monitoring[J]</b>. Computers & Industrial Engineering, 2024: 110830. [Link](https://www.sciencedirect.com/science/article/pii/S0360835224009525)
+* Dai M, Gong T, Zhang S. <b>Graph Convolutional Network-Based Channel Extrapolation for Hybrid RIS-Aided Communication[J]</b>. IEEE Wireless Communications Letters, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10713240/)
+* Liu Z, Zhang J, Shi E, et al. <b>Graph neural network meets multi-agent reinforcement learning: Fundamentals, applications, and future directions[J]</b>. IEEE Wireless Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10638531/)
+* Hao X, She C, Yeoh P L, et al. <b>Hybrid-Task Meta-Learning: A GNN Approach for Scalable and Transferable Bandwidth Allocation[J]</b>. IEEE Transactions on Wireless Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10745152/)
+* Messinis S, El Marai O, Protonotarios N E, et al. <b>Roads Digital Twin: Predictive Situational Awareness Using 360° Video Streaming and Graph Neural Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10783091/)
+* Al-Absi G A, Fang Y, Qaseem A A. <b>STC-GraphFormer: Graph Spatial-Temporal Correlation Transformer for In-vehicle Network Intrusion Detection System[J]</b>. Vehicular Communications, 2024: 100865. [Link](https://www.sciencedirect.com/science/article/pii/S2214209624001402)
 * Wang Q, Wang X, Liu H, et al. <b>A Domain Adaptive IoT Intrusion Detection Algorithm Based on GWR-GCN Feature Extraction and Conditional Domain Adversary[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10677546/)
 * Xiaoyu Z, Peihan Q, Qi L, et al. <b>A graph-based semi-supervised approach for few-shot class-incremental modulation classification[J]</b>. China Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10495864/)
 * Dai Y, Lyu L, Cheng N, et al. <b>A Survey of Graph-Based Resource Management in Wireless Networks-Part I: Optimization Approaches[J]</b>. IEEE Transactions on Cognitive Communications and Networking, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10772404/)
@@ -161,6 +170,7 @@ The list would be updated monthly.
 * Shan L, Hu Y, Shan W, et al. <b>MAGLN: Multi-Attention Graph Learning Network for Channel Estimation in Multi-User SIMO[C]</b>//2023 28th Asia Pacific Conference on Communications (APCC). IEEE, 2023: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/10460648/)
 
 ### Preprint
+* Ji H, Wu X, Zeng Z, et al. <b>Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks[J]</b>. arXiv preprint arXiv:2410.17118, 2024. [Link](https://arxiv.org/abs/2410.17118) [Code](https://github.com/HanJi-UCD/GNN-HetNet)
 * Hu S, Zou G, Yang S, et al. <b>GACL: Graph Attention Collaborative Learning for Temporal QoS Prediction[J]</b>. arXiv preprint arXiv:2408.10555, 2024. [Link](https://arxiv.org/abs/2408.10555v2)
 * Piroti S, Chawla A, Zanouda T. <b>Mobile Network Configuration Recommendation using Deep Generative Graph Neural Network[J]</b>. arXiv preprint arXiv:2406.04779, 2024. [Link](https://arxiv.org/abs/2406.04779)
 * Sun M, Li Z, Wu S, et al. <b>A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks[J]</b>. arXiv preprint arXiv:2408.17252, 2024. [Link](https://arxiv.org/abs/2408.17252)
