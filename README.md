@@ -184,7 +184,7 @@ The list would be updated monthly.
 * Zhong L, Chen Z, Cheng H, et al. <b>Lightweight Federated Graph Learning for Accelerating Classification Inference in UAV-assisted MEC Systems[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10433561/)
 
 ### Conference
-* Chen Z J, Peng L, Ho P H. <b>A Novel GNN-based Decoding Scheme for Sparse Code Multiple Access (SCMA)[C]<b>//2024 International Conference on Networking and Network Applications (NaNA). IEEE, 2024: 160-165. [Link](https://ieeexplore.ieee.org/abstract/document/10679856/)
+* Chen Z J, Peng L, Ho P H. <b>A Novel GNN-based Decoding Scheme for Sparse Code Multiple Access (SCMA)[C]</b>//2024 International Conference on Networking and Network Applications (NaNA). IEEE, 2024: 160-165. [Link](https://ieeexplore.ieee.org/abstract/document/10679856/)
 * He Y, Gao J, Fan M, et al. <b>A&D Graph-Based Graph Neural Network Intrusion Detection for In-Vehicle Controller Area Network[C]</b>//2024 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2024: 1281-1286. [Link](https://ieeexplore.ieee.org/abstract/document/10681772/)
 * Xu Z, Guan Z, Tian M. <b>CSR-PTDNG: A Graph Construction Method for DNS Tunneling Domain Names Detection[C]</b>//2024 IEEE Symposium on Computers and Communications (ISCC). IEEE, 2024: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/10733579/) [Data](https://github.com/xzyseu/CSR-PTDNG)
 * Zhu Y, Liu G, Li N, et al. <b>DT-GCN Based Digital Twin for 6G Self-Intelligent Network[C]</b>//2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops). IEEE, 2024: 299-304. [Link](https://ieeexplore.ieee.org/abstract/document/10693733/)
