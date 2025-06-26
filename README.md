@@ -191,6 +191,7 @@ The list would be updated monthly.
 * Zhong L, Chen Z, Cheng H, et al. <b>Lightweight Federated Graph Learning for Accelerating Classification Inference in UAV-assisted MEC Systems[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10433561/)
 
 ### Conference
+* Ngo, Duc-Thinh, et al. <b>FLEXIBLE: Forecasting Cellular Traffic by Leveraging Explicit Inductive Graph-Based Learning.[C]<b>// 2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10817182)
 * Marfo W, Tosh D K, Moore S V. <b>Enhancing network anomaly detection using graph neural networks[C]</b>//2024 22nd Mediterranean Communication and Computer Networking Conference (MedComNet). IEEE, 2024: 1-10. [Link](https://ieeexplore.ieee.org/abstract/document/10578278/)
 * Xie Z, Yang B, Huang J, et al. <b>Locating the Root Cause of Poor Coverage in Mobile Communication Networks Based on Spatio-temporal Graph Message Propagation[C]</b>//2024 International Wireless Communications and Mobile Computing (IWCMC). IEEE, 2024: 1472-1477. [Link](https://ieeexplore.ieee.org/abstract/document/10592423/)
 * Liao J, Wen J, Kang J, et al. <b>Optimizing Information Propagation for Blockchain-empowered Mobile AIGC: A Graph Attention Network Approach[C]</b>//2024 International Wireless Communications and Mobile Computing (IWCMC). IEEE, 2024: 685-690. [Link](https://ieeexplore.ieee.org/abstract/document/10592330/)
