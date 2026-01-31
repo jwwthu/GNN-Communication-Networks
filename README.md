@@ -29,8 +29,28 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 # Literature
 The list would be updated monthly.
 
+## 2026
+### Journal
+* Wang Z, Yuan F, Qiu H, et al. <b>Large-Scale BGP Routing Anomaly Detection Based on Graph Attention Auto-Encoder[J]</b>. IEEE Transactions on Network and Service Management, 2026, 23: 487-501. [Link](https://ieeexplore.ieee.org/abstract/document/11328038/)
+* Wang C, Dong M, Yuan Y, et al. <b>Energy-efficient trajectory planning for UAV-assisted communication recovery using multi-agent graph reinforcement learning[J]</b>. Ad Hoc Networks, 2026, 184: 104145. [Link](https://www.sciencedirect.com/science/article/pii/S1570870526000119)
+* Xu J, Chen C, Dai Q, et al. <b>Sparse QoS prediction for cloud services via inductive subgraph pattern aware graph neural network[J]</b>. Computer Communications, 2026, 248: 108415. [Link](https://www.sciencedirect.com/science/article/pii/S0140366426000058)
+
 ## 2025
 ### Journal
+* Yang J, Li B, Zhang X, et al. <b>A Graph Attention Mechanism-Based Scheme for User Access and Resource Optimization in Heterogeneous Mega-Constellation Networks[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11208547/)
+* Chan K L, Chang R Y, Chien F T, et al. <b>Beamforming and Load-Balanced User Association in RIS-Aided mmWave Systems via Adaptive Attention Graph Neural Networks[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11212829/)
+* Liu X, Fischione C. <b>Coordinated Beamforming for Multi-cell ISAC using Graph Neural Networks[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11212819/)
+* Zhao L, Wu D, He K, et al. <b>Cost-Efficient Federated Learning in Massive IoT: A Physics-Inspired Graph Learning Approach[J]</b>. IEEE Transactions on Communications, 2025, 74: 1019-1032. [Link](https://ieeexplore.ieee.org/abstract/document/11251352/)
+* Jiang Y, Hu J, Min G. <b>D2D-Assisted Hierarchical Federated Learning With Clustering Based on Graph Convolutional Networks[J]</b>. IEEE Transactions on Networking, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11151783/)
+* Bukhari S M A H, Afaq M, Song W C. <b>G-CSL: A GNN-based client-server-link prediction for video streaming in SDN[J]</b>. Journal of Communications and Networks, 2025, 27(6): 521-533. [Link](https://ieeexplore.ieee.org/abstract/document/11333398/)
+* Yin B, Schampheleer J, Joseph W, et al. <b>Graph Neural Network Based Energy-Efficient Optimization for RIS-Assisted Wireless Networks[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11078777/)
+* Zhang B, Gao R, Gao P, et al. <b>Interference-Suppressed Joint Channel and Power Allocation for Downlinks in Large-Scale Satellite Networks: A Dynamic Hypergraph Neural Network Approach[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11080232/)
+* Lian L, Bai C, Xu Y, et al. <b>Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/document/11220255)
+* Ye M, Zhang J, Guo Z, et al. <b>Learning-Based Adaptive Range Routing for Traffic Engineering With Graph Neural Networks[J]</b>. IEEE Transactions on Networking, 2025, 34: 767-782. [Link](https://ieeexplore.ieee.org/abstract/document/11230331/)
+* Li R, Wang S, Huang H, et al. <b>Multi-Dimensional Spectrum Prediction Using Closed-Form Continuous-Time Neural Network With Graph Attention[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11098610/)
+* Li Y, Liu Y, Yu W. <b>Multimodal Visual Image Based User Association and Beamforming Using Graph Neural Networks[J]</b>. IEEE Transactions on Wireless Communications, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11062505/) [Code](https://github.com/Leeyyhh/Multimodal-Based-User-Association-and-Beamforming)
+* Bilen T. <b>Real-Time Congestion Management in 6G Networks via GNN-Based Detection and Queue-Aware Mitigation[J]</b>. Computer Networks, 2025: 111941. [Link](https://www.sciencedirect.com/science/article/pii/S1389128625009065)
+* Zhong L, Zhang J, Chen Z, et al. <b>Subtopology-Assisted Federated Graph Learning With Adaptive Neighbor Generation in Edge-Client Collaborative Networks[J]</b>. IEEE Transactions on Networking, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11195765/)
 * Xie Y, Ding Z, Dai X. <b>Beam Allocation in THz-NOMA Networks: A Graph Neural Network Approach[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11054292/)
 * Wu Y, Liu Y, Wang F, et al. <b>Exploring Spatio-Temporal Dynamics for Spectrum Sensing: A GCN-LSTM Approach[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11054296/)
 * Zhang H, Huang K, Yang C, et al. <b>Fast Adversarial Training For Graph Neural Network Based Resource Allocation[J]</b>. IEEE Wireless Communications Letters, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11204513/)
@@ -166,6 +186,7 @@ The list would be updated monthly.
 * Li Z, Zhao H, Zhao J, et al. <b>SAT-Net: A staggered attention network using graph neural networks for encrypted traffic classification[J]</b>. Journal of Network and Computer Applications, 2025, 233: 104069. [Link](https://www.sciencedirect.com/science/article/pii/S1084804524002467)
 
 ### Conference
+* Gkelias A, Leung K K, Baker P J, et al. <b>GNN-Enabled Reinforcement Learning for Robust Task Admission and Routing in IoBT Environments[C]</b>//MILCOM 2025-2025 IEEE Military Communications Conference (MILCOM). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11309864/)
 * Zhao W, Lu Y, Zhong Z, et al. <b>GNN-Based Clustered Federated Learning for Hierarchical Vehicular Networks[C]</b>//ICC 2025-IEEE International Conference on Communications. IEEE, 2025: 3449-3454. [Link](https://ieeexplore.ieee.org/abstract/document/11160904/)
 * Simhon Z, Weiss M, Hajaj C, et al. <b>A New D-MAGIC: Dynamic Model for Cybersecurity Attack Detection Using GNNs into Clustering[C]</b>//ICC 2025-IEEE International Conference on Communications. IEEE, 2025: 6771-6776. [Link](https://ieeexplore.ieee.org/abstract/document/11160734/)
 * Serhane O, Moungla H. <b>GCN-ATO: GCN-Assisted Task Offloading for Multi-Access Edge Computing in Hetnets[C]</b>//ICC 2025-IEEE International Conference on Communications. IEEE, 2025: 2051-2057. [Link](https://ieeexplore.ieee.org/abstract/document/11161939/)
