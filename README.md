@@ -31,6 +31,13 @@ The list would be updated monthly.
 
 ## 2026
 ### Journal
+* Li Y, Feng L, Zhu Z, et al. <b>EM-GAT: An Edge-enhanced Multi-hop Graph Attention Network for Network Intrusion Detection[J]</b>. Ad Hoc Networks, 2026: 104292. [Link](https://www.sciencedirect.com/science/article/pii/S1570870526001587)
+* Mittal A, Singh S K. <b>Mobility-Aware MIMO Channel Estimation for RIS-Assisted Terahertz Systems via Meta-Learned Spatio-Temporal Graph Neural Networks[J]</b>. Physical Communication, 2026: 103159. [Link](https://www.sciencedirect.com/science/article/pii/S1874490726001680)
+* Yang P, Zheng T, Zhang S, et al. <b>Graph-Meta-Reinforcement-Learning-Based Algorithm for Task Offloading in Vehicular Edge-Cloud Collaboration[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11219184/)
+* Yuan Y, Shen X, Sun L, et al. <b>Key Nodes Prediction and Cascading Failures Mitigation in Dynamic Traffic UASNs Via a GCN-LSTM Model[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11319241/)
+* Wang K, Jiang Q, Wu Y, et al. <b>STATGRAPH: Effective in-vehicle intrusion detection via multi-view statistical graph learning[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11267138/)
+* Teng M, Li X, Zhang X, et al. <b>Graph-Based Spatiotemporal RL Framework for Sequential Task Offloading in Multi-UAV Systems[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11264345/)
+* Wang X, Wang Z, Cheng N, et al. <b>Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6G Networks[J]</b>. IEEE Transactions on Mobile Computing, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11260947/)
 * Li Y, Xu X, Xu J. <b>AI-Enhanced Hierarchical Routing with Q-learning and Graph Neural Networks for 6G-Enabled Internet of Vehicles[J]</b>. Computer Networks, 2026: 112206. [Link](https://www.sciencedirect.com/science/article/pii/S1389128626002185)
 * Sharma T, Shieh C S, Forng M H, et al. <b>Enhancing Internet of Things Security: A Federated Learning‐Based Hybrid Model With Graph Neural Networks and Transformers[J]</b>. International Journal of Communication Systems, 2026, 39(6): e70446. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.70446)
 * Rajkumar K, Sivakumar V, Shunmugapriya B, et al. <b>Graph Learning–Based Spatial–Temporal Graph Convolutional Neural Network for Overlap Detection and Optimal Link‐State Routing for Effective Data Transmission in Visual Sensor Network[J]</b>. International Journal of Communication Systems, 2026, 39(5): e70439. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.70439)
@@ -45,6 +52,9 @@ The list would be updated monthly.
 * Wang Z, Yuan F, Qiu H, et al. <b>Large-Scale BGP Routing Anomaly Detection Based on Graph Attention Auto-Encoder[J]</b>. IEEE Transactions on Network and Service Management, 2026, 23: 487-501. [Link](https://ieeexplore.ieee.org/abstract/document/11328038/)
 * Wang C, Dong M, Yuan Y, et al. <b>Energy-efficient trajectory planning for UAV-assisted communication recovery using multi-agent graph reinforcement learning[J]</b>. Ad Hoc Networks, 2026, 184: 104145. [Link](https://www.sciencedirect.com/science/article/pii/S1570870526000119)
 * Xu J, Chen C, Dai Q, et al. <b>Sparse QoS prediction for cloud services via inductive subgraph pattern aware graph neural network[J]</b>. Computer Communications, 2026, 248: 108415. [Link](https://www.sciencedirect.com/science/article/pii/S0140366426000058)
+
+### Conference
+* Afrin F, Moghim N, Bouk S H, et al. <b>Multi-scale Graph Neural Network for Low-SNR Wireless Signal Classification[C]</b>//2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC). IEEE, 2026: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/11366565/)
 
 ## 2025
 ### Journal
@@ -202,6 +212,7 @@ The list would be updated monthly.
 * Li Z, Zhao H, Zhao J, et al. <b>SAT-Net: A staggered attention network using graph neural networks for encrypted traffic classification[J]</b>. Journal of Network and Computer Applications, 2025, 233: 104069. [Link](https://www.sciencedirect.com/science/article/pii/S1084804524002467)
 
 ### Conference
+* Tasdighi A, Yousefi M. <b>Adaptive Learned Message Passing Algorithms for Decoding Error Correcting Codes[C]</b>//European WIRELESS 2025; 30th European Wireless Conference. VDE, 2025: 115-120. [Link](https://ieeexplore.ieee.org/abstract/document/11442739/)
 * Zhang L, Zhao H, Wang Q, et al. <b>An Automatic Modulation Classification Algorithm Based on Adaptive Visibility Graph and GNN Incorporating GRU[C]</b>//2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11352191/)
 * Chen Y, Dai Y, Lyu L. <b>Edge-Aware Graphormer for Downlink Covert Communication Optimization in Aerial Cell-Free Networks[C]</b>//2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11352052/)
 * Zhang J, Xu L, Li R, et al. <b>HetRGNN-MARL: A Graph-Enhanced Multi-Agent Reinforcement Learning Approach for Resource Allocation and Trajectory Optimization in UAV-Assisted ISAC Networks[C]</b>//2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2025: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/11352329/)
