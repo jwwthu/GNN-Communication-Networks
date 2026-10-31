@@ -31,6 +31,13 @@ The list would be updated monthly.
 
 ## 2026
 ### Journal
+* Mathina P A, Valarmathi K. <b>An Advanced Framework Leveraging Contrastive Multilevel Graph Neural Networks With Snow Avalanches Algorithm to Enhance IoT Network Security for Intrusion Detection[J]</b>. International Journal of Communication Systems, 2026, 39(14): e70580. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.70580)
+* Wang F, Yang H, Zhang S, et al. <b>GEMS: GAT-embedded mobility for dual connectivity in integrated terrestrial and non-terrestrial networks[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11475662/)
+* Zou Q, Liu F, Yin M, et al. <b>GNN-MARL for Cooperative Lane Change Replanning in Connected Autonomous Vehicles[J]</b>. IEEE Communications Magazine, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11554968/)
+* Kamal M M, Abideen S Z U, Khan I, et al. <b>GNN-Transformer for Real-Time Power Constrained Active RIS Configuration in Terahertz Communications[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11571787/)
+* Ji B, Yu P, Lu R, et al. <b>Graph Attention-Based MARL for AoI and Reliability-Aware Resource Allocation in RIS-Assisted V2X Networks[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11479918/)
+* Li R, Song J, Lei S, et al. <b>Hybrid Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11594983/)
+* Xiao J, Zhang Z, Zhou Y. <b>MA-TSG: A multi-attribute-aware spatio-temporal graph fusion framework for VNF resource demand prediction[J]</b>. Computer Networks, 2026: 112702. [Link](https://www.sciencedirect.com/science/article/pii/S1389128626007140)
 * Xiao B, Guo Y, Chen X. <b>Achieving Load Balancing for Multi-Edge Collaboration in WMANs: An Adaptive Graph Reinforcement Learning Method[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11456194/)
 * Peng Y, Wu J, Duan T, et al. <b>Decentralized Topology Robustness Optimization for IoT via Multi-Agent Graph Reinforcement Learning[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11471037/)
 * Yin R, Yang Y, Qin H, et al. <b>Graph Neural Network and Deep Reinforcement Learning Based Approach for V2V Resource Allocation[J]</b>. Physical Communication, 2026: 103295. [Link](https://www.sciencedirect.com/science/article/pii/S1874490726003046)
@@ -81,6 +88,7 @@ The list would be updated monthly.
 * Xu J, Chen C, Dai Q, et al. <b>Sparse QoS prediction for cloud services via inductive subgraph pattern aware graph neural network[J]</b>. Computer Communications, 2026, 248: 108415. [Link](https://www.sciencedirect.com/science/article/pii/S0140366426000058)
 
 ### Conference
+* Amini M, Hamidi A, Ghasemzadeh P. <b>Black-Box Operational Transparency: Gradient-Based Explainability for GNN-Based Network Performance Prediction[C]</b>//2026 International Wireless Communications and Mobile Computing (IWCMC). IEEE, 2026: 1481-1486. [Link](https://ieeexplore.ieee.org/abstract/document/11579927/)
 * Tarzjani F D, Krishnamachari B. <b>Learning Wireless Interference Patterns: Decoupled GNN for Throughput Prediction in Heterogeneous Multi-Hop p-CSMA Networks[C]</b>//2026 24th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt). IEEE, 2026: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/11568222/) [Code](https://github.com/ANRGUSC/predictCSMA)
 * Afrin F, Moghim N, Bouk S H, et al. <b>Multi-scale Graph Neural Network for Low-SNR Wireless Signal Classification[C]</b>//2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC). IEEE, 2026: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/11366565/)
 
